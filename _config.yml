@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Daniel Anadria"
   avatar           : "profile.jpg"
-  bio              : "Msc Methodology and Statistics"
+  bio              : "MSc Methodology and Statistics at Utrecht University"
   location         : "Utrecht"
-  employer         : "Utrecht University, Department of Methodology and Statistics"
+  employer         : #"Utrecht University, Department of Methodology and Statistics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E5wiCxMAAAAJ"
   email            : "d.anadria@uu.nl"
