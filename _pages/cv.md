@@ -11,25 +11,39 @@ redirect_from:
 
 Education
 ======
-* BSc Psychology, University of Groningen, 2021\
+
+* [MSc Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) (research), Utrecht University, 2023\
+Active in: NLP group, Missing Data group, ASReview team
+* [BSc Psychology](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
 Member of the Excellence Program for Psychology\
-Honours Bachelor's Thesis keywords: \
-natural language processing, machine learning, social media\
-* MSc Methodology and Statistics (research), Utrecht University, 2023\
-Active in: NLP group, Missing Data group, ASReview team\
+[Honours Bachelor's Thesis](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf) keywords: \
+natural language processing, machine learning, social media
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+
   
 Skills
 ======
@@ -58,6 +72,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
