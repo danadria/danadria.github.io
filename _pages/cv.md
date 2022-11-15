@@ -30,29 +30,29 @@ Work experience
   * Utrecht University
   * Drafting a meta-analysis on the use of active learning for systematic reviews.
   * Taught a text-mining computer practical to MSc Applied Data Science students.
-
+\
 
 * Researcher at Missing Data Group (September 2022 - ongoing)
   * Utrecht University
   * Developing a new machine-learning-based predictor selection function for the R package mice,\
     designing simulation studies to compare different algorithms.
-
+\
 
 * Research Assistant to [Dr. Caspar van Lissa](https://cjvanlissa.github.io/resume/) (April 2022 - ongoing)
   * Tilburg University
   * Literature search and article drafting on the topic of Latent Class Analysis.
-
+\
 
 * Teaching Assistant to [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/) (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with the development and teaching of coding practicals for two summer school courses:\
     Introduction to Text Mining in R, and Applied Text Mining (Python).
-
+\
 
 * Teaching Assistant to [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/) (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with AI-Aided Systematic Reviewing practical construction and teaching.
-
+\
 
 
 
