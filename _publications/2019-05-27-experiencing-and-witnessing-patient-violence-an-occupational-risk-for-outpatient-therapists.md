@@ -13,7 +13,7 @@ Violence against therapists by their clients is a common occurrence across clini
 [Download paper here](http://danadria.github.io/files/paper1.pdf)
 
 BibTex citation:
-\ 
+
 @article{daniels2019experiencing,
   title={Experiencing and witnessing patient violence-an occupational risk for outpatient therapists?},
   author={Daniels, Judith K and Anadria, Daniel},

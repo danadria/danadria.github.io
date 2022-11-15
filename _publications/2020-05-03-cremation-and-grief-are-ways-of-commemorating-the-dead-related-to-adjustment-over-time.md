@@ -13,7 +13,7 @@ This paper is on the effects of minimal funeral arrangements on grief over time.
 [Download paper here](http://danadria.github.io/files/paper3.pdf)
 
 BibTeX citation:
-\ 
+
 @article{birrell2020cremation,
   title={Cremation and grief: Are ways of commemorating the dead related to adjustment over time?},
   author={Birrell, John and Schut, Henk and Stroebe, Margaret and Anadria, Daniel and Newsom, Cate and Woodthorpe, Kate and Rumble, Hannah and Corden, Anne and Smith, Yvette},
