@@ -14,10 +14,10 @@ Education
 * BSc Psychology, University of Groningen, 2021\
 Member of the Excellence Program for Psychology\
 Honours Bachelor's Thesis keywords: \
-natural language processing, machine learning, social media \
+natural language processing, machine learning, social media\
 * MSc Methodology and Statistics (research), Utrecht University, 2023\
 Active in: NLP group, Missing Data group, ASReview team\
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
