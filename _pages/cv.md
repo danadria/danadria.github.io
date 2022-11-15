@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 
-* [MSc Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) (research), Utrecht University, 2023\
+* [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences), Utrecht University, 2023\
 Applied Data Science Track\
 Active in: NLP group, Missing Data group, ASReview team
 
 
-* [BSc Psychology](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
+* [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
 Member of the Excellence Program for Psychology\
 & Honors College\
-You can read my [Honours Bachelor's Thesis here](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)\
+You can read my [Honors Bachelor's Thesis here](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)\
 
 
 Work experience
