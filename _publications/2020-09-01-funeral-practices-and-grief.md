@@ -1,12 +1,12 @@
 ---
 title: "Funeral practices and grief"
 collection: publications
-permalink: /publication/10.1080/02682621.2020.1828774
+permalink: /publication/10.1080/0268262120201828774
 excerpt: 'This paper is about the relationship between funeral arrangements and grief over time.'
 date: 2020-09-01
 venue: 'Bereavement Care'
 paperurl: 'http://danadria.github.io/files/paper4.pdf'
-#citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
 ---
 This paper is about the relationship between funeral arrangements and grief over time.
 
