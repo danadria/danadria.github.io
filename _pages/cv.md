@@ -18,9 +18,8 @@ Active in: NLP group, Missing Data group, ASReview team
 
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
-Member of the Excellence Program for Psychology\
-& Honors College\
-You can read my [Honors Bachelor's Thesis here](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)\
+Member of the Excellence Program for Psychology & Honors College\
+You can read my [Honors Bachelor's Thesis here](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)
 
 
 Work experience
