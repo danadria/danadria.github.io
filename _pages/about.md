@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a statistician/data scientist in the final year of [Methodology and Statistics research master's](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://uu.nl/en).
+I am a statistician/data scientist in the final year of [MSc Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://uu.nl/en).
 
 Active in:
 ======
