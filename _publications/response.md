@@ -1,5 +1,5 @@
 ---
-title: "Response by the Authors of 'Cremation and Grief: Are Ways of Commemorating the Dead Related to Adjustment Over Time?'"
+title: "Response by the Authors of Cremation and Grief: Are Ways of Commemorating the Dead Related to Adjustment Over Time?"
 collection: publications
 permalink: /publication/10.1177/0030222820935735
 excerpt: 'This letter is a response to Becker's commentary.'
