@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Anadria"
 title_separator          : "-"
 name                     : &name "Daniel Anadria"
-description              : &description "MSc Methodology and Statistics"
+description              : &description "Statistician & Data Scientist"
 url                      : https://danadria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danadria/danadria.github.io"
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Daniel Anadria"
   avatar           : "profile.jpg"
-  bio              : "Statistician & Data Scientist\
-                      MSc Methodology and Statistics at Utrecht University"
+  bio              : "Statistician & Data Scientist"
   location         : "Utrecht, NL"
   employer         : #"Utrecht University, Department of Methodology and Statistics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
