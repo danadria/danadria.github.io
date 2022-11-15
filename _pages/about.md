@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year research master's student of [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://uu.nl/en).
+I am a statistician/data scientist in the final year of [Methodology and Statistics research master's](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://uu.nl/en).
 
 Active in:
 ======
@@ -20,7 +20,7 @@ Interests:
 ======
 - NLP & Text-Mining
 - Latent Class Analysis & Structural Equation Modelling
-- Feature Importance & Feature Selection
+- Feature Attribution & Feature Selection
 - Active Learning & Deep Learning
 - Explainable AI (XAI)
 - Mental Health
