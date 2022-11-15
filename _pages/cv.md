@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Psychology, University of Groningen, 2021
+Member of the Excellence Program for Psychology
+Honours Bachelor's Thesis keywords: 
+natural language processing, machine learning, social media 
+* MSc Methodology and Statistics (research), Utrecht University, 2023
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
