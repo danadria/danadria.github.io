@@ -22,7 +22,7 @@ Member of the Excellence Program for Psychology & Honors College\
 You can read my [Honors Bachelor's Thesis here](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)
 
 
-Work experience
+Research Experience
 ======
 
 * **Researcher at ASReview** (September 2022 - ongoing)
@@ -35,6 +35,26 @@ Work experience
   * Developing a new machine-learning-based predictor selection function for the R package mice,\
     designing simulation studies to compare different algorithms.
 
+* **Research Internship with [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa)** (April 2022 - ongoing)
+  * Tilburg University
+  * Literature search and article drafting on the topic of Latent Class Analysis.
+
+* **Research Internship with [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research)** (March - May 2019)
+  * University of Groningen
+  * Digitalizing questionnaires and data wrangling for two separate studies.
+
+* **Research Internship with [Prof. Dr. Margaret Stroebe](https://www.uu.nl/staff/msstroebe) and [Dr. Henk Schut](https://www.uu.nl/staff/hschut)** (July 2018 - March 2020)
+  * Utrecht University / University of Groningen
+  * Data digitalization, survey design, statistical analyses, article drafting.
+  * Peer-review for OMEGA - Journal of Death and Dying under Dr. Stroebe's supervision.
+
+* **Research Internship with [Prof. Dr. Judith Daniels](https://www.rug.nl/staff/j.k.daniels/)** (June 2017 - September 2018)
+  * University of Groningen
+  * Collection of qualitative data, article drafting and journal submission.
+
+Teaching Experience
+======
+
 * **Teaching Internship with [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/)** (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with the development and teaching of coding practicals for two summer school courses:\
@@ -43,33 +63,6 @@ Work experience
 * **Teaching Internship with [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/)** (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with AI-Aided Systematic Reviewing practical construction and teaching.
-
-* **Coordinator Summer School Methodology and Statistics** (May - August 2022)
-  * Department of Methodology and Statistics, Utrecht University
-  * Supported my department in the organization and administration of 18 summer school courses for over 650 students.
-
-* **Research Internship with [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa)** (April 2022 - ongoing)
-  * Tilburg University
-  * Literature search and article drafting on the topic of Latent Class Analysis.
-
-* **Data Analyst / Consultant** (September 2021 - March 2022)
-  * ARGO BV / Univeristy Medical Center Groningen 
-  * Collection, processing and visualization of socio-economic indicators.
-  * Supervisor: Dr. Roya Shokoohi and Dr. Peter van Linschoten
-
-* **Data Analyst / Consultant** (February - September 2020)
-  * Neuroflash 
-  * Visualization of text networks, interpretation of findings,\
-    construction of narratives for several projects and presentation of findings to external clients.
-  * Supervisor: Dr. Jonathan Mall
-
-* **Course Administrator** (September 2019 - February 2021)
-  * University of Groningen
-  * Tracked student attendance, issued and graded student make-up assignments for two BSc Psychology courses.
-
-* **Research Internship with [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research)** (March - May 2019)
-  * University of Groningen
-  * Digitalizing questionnaires and data wrangling for two separate studies.
 
 * **Teaching Internship - Dialogue and Group Skills** (February - June 2019)
   * University of Gronignen
@@ -84,16 +77,31 @@ Work experience
   * University of Gronignen
   * Teaching BSc Psychology students micro-counselling skills in role-played clinical interview setting.
 
-* **Research Internship with [Prof. Dr. Margaret Stroebe](https://www.uu.nl/staff/msstroebe) and [Dr. Henk Schut](https://www.uu.nl/staff/hschut)** (July 2018 - March 2020)
-  * Utrecht University / University of Groningen
-  * Data digitalization, survey design, statistical analyses, article drafting.
-  * Peer-review for OMEGA - Journal of Death and Dying under Dr. Stroebe's supervision.
+Data Analyst / Consultant Experience
+======
 
-* **Research Internship with [Prof. Dr. Judith Daniels](https://www.rug.nl/staff/j.k.daniels/)** (June 2017 - September 2018)
+* **Data Analyst / Consultant** (September 2021 - March 2022)
+  * ARGO BV / Univeristy Medical Center Groningen 
+  * Collection, processing and visualization of socio-economic indicators.
+  * Supervisor: Dr. Roya Shokoohi and Dr. Peter van Linschoten
+
+* **Data Analyst / Consultant** (February - September 2020)
+  * Neuroflash 
+  * Visualization of text networks, interpretation of findings,\
+    construction of narratives for several projects and presentation of findings to external clients.
+  * Supervisor: Dr. Jonathan Mall
+
+Academic Coordinator / Administrator Experience
+======
+
+* **Coordinator Summer School Methodology and Statistics** (May - August 2022)
+  * Department of Methodology and Statistics, Utrecht University
+  * Supported my department in the organization and administration of 18 summer school courses for over 650 students.
+
+* **Course Administrator** (September 2019 - February 2021)
   * University of Groningen
-  * Collection of qualitative data, article drafting and journal submission.
+  * Tracked student attendance, issued and graded student make-up assignments for two BSc Psychology courses.
 
-  
 Skills
 ======
 * R
@@ -107,16 +115,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
+
+
 
