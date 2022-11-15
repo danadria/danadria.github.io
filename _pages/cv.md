@@ -26,7 +26,7 @@ natural language processing, machine learning, social media
 Work experience
 ======
 
-* Researcher at ASReview (September 2022 - ongoing)
+* **Researcher at ASReview** (September 2022 - ongoing)
   * Utrecht University
   * Drafting a meta-analysis on the use of active learning for systematic reviews.
   * Taught a text-mining computer practical to MSc Applied Data Science students.
