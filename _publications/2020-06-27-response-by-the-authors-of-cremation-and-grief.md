@@ -5,7 +5,7 @@ permalink: /publication/10.1177/0030222820935735
 excerpt: 'This letter is a response to Becker's commentary.'
 date: 2020-06-27
 venue: 'OMEGA - Journal of Death and Dying'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://danadria.github.io/files/paper2.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This letter is a response to Becker's commentary.
