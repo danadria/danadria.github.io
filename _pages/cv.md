@@ -106,8 +106,11 @@ Skills
 ======
 * R
 * Python
-* JASP, SPSS, Mplus
-* LaTeX, Zotero
+* JASP
+* SPSS
+* Mplus
+* LaTeX
+* Zotero
 
 Publications
 ======
