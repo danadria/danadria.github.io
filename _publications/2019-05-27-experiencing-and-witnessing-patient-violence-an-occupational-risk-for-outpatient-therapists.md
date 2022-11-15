@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/10.1007/s11126-019-09648-x
 excerpt: 'This paper is about prevalence of post-traumatic symptoms in therapists who have been assaulted by their clients.'
 date: 2019-05-27
-venue: 'Psychiatric Quarterly (2019)'
+venue: 'Psychiatric Quarterly'
 paperurl: 'http://danadria.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
