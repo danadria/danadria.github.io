@@ -10,9 +10,17 @@ redirect_from:
 
 I am a second year research master's student of [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://uu.nl/en).
 
-I am involved in:
+Active in:
 ======
-- Natural Language Processing Group Methodology and Statistics
-- [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data)
 - [ASReview Team](https://asreview.nl/)
+- [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data)
+- Natural Language Processing Group Methodology and Statistics
 
+Interests:
+======
+- NLP & Text-Mining
+- Latent Class Analysis & Structural Equation Modelling
+- Feature Importance & Feature Selection
+- Active Learning & Deep Learning
+- Explainable AI (XAI)
+- Mental Health
