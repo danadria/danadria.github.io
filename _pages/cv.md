@@ -15,6 +15,7 @@ Education
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences), Utrecht University, 2023\
 Applied Data Science Track\
 Active in: NLP group, Missing Data group, ASReview team
+You can read my [Research Master's Thesis Proposal here](http://danadria.github.io/files/Anadria_Thesis_Proposal.pdf)
 
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
