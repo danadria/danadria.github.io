@@ -15,12 +15,12 @@ Education
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences), Utrecht University, 2023\
 Applied Data Science Track\
 Active in: NLP group, Missing Data group, ASReview team\
-You can read my [Research Master's Thesis Proposal here](http://danadria.github.io/files/Anadria_Thesis_Proposal.pdf)
+You can read my [Research Master's Thesis Proposal](http://danadria.github.io/files/Anadria_Thesis_Proposal.pdf)
 
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
 Member of the Excellence Program for Psychology & Honors College\
-You can read my [Honors Bachelor's Thesis here](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)
+You can read my [Honors Bachelor's Thesis](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)
 
 
 Research Experience
@@ -35,6 +35,7 @@ Research Experience
   * Utrecht University
   * Developing a new machine-learning-based feature selection function for the R package mice,\
     designing simulation studies to compare different algorithms.
+  * The project is open-source and available on [GitHub](https://github.com/danadria/feature.selector)
 
 * **Research Internship with [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa)** (April 2022 - ongoing)
   * Tilburg University
@@ -42,16 +43,16 @@ Research Experience
 
 * **Research Internship with [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research)** (March - May 2019)
   * University of Groningen
-  * Digitalizing questionnaires and data wrangling for two separate studies.
+  * Digitalized and prepared survey data for two separate studies.
 
 * **Research Internship with [Prof. Dr. Margaret Stroebe](https://www.uu.nl/staff/msstroebe) and [Dr. Henk Schut](https://www.uu.nl/staff/hschut)** (July 2018 - March 2020)
   * Utrecht University / University of Groningen
-  * Data digitalization, survey design, statistical analyses, article drafting.
+  * Data digitalization, survey design, statistical analyses.
   * Peer-review for OMEGA - Journal of Death and Dying under Dr. Stroebe's supervision.
 
 * **Research Internship with [Prof. Dr. Judith Daniels](https://www.rug.nl/staff/j.k.daniels/)** (June 2017 - September 2018)
   * University of Groningen
-  * Collection of qualitative data, article drafting and journal submission.
+  * Collected qualitative data, drafted an article and submitted the manuscript to a journal.
 
 Teaching Experience
 ======
