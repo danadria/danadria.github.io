@@ -29,6 +29,6 @@ Active in:
 ======
 - [ASReview Team](https://asreview.nl/)
 - [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data)
-- Natural Language Processing Group Methodology and Statistics
+- [Natural Language Processing Group](https://nlp.sites.uu.nl/)
 
 
