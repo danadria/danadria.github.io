@@ -91,7 +91,7 @@ Data Analyst / Consultant Experience
   * Neuroflash
   * Visualization of text networks, interpretation of findings,\
     construction of narratives for several projects and presentation of findings to external clients.
-  *Supervisor: Dr. Jonathan Mall
+  * Supervisor: Dr. Jonathan Mall
 
 Academic Coordinator / Administrator Experience
 ======
