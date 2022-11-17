@@ -37,11 +37,11 @@ Research Experience
     designing simulation studies to compare different algorithms.
   * The project is open-source and available on [GitHub](https://github.com/danadria/feature.selector)
 
-* **Research Internship with [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa)** (April 2022 - ongoing)
+* **Research Assistant to [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa)** (April 2022 - ongoing)
   * Tilburg University
   * Literature search and article drafting on the topic of Latent Class Analysis.
 
-* **Research Internship with [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research)** (March - May 2019)
+* **Research Assistant to [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research)** (March - May 2019)
   * University of Groningen
   * Digitalized and prepared survey data for two separate studies.
 
@@ -57,12 +57,12 @@ Research Experience
 Teaching Experience
 ======
 
-* **Teaching Internship with [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/)** (May - August 2022)
+* **Teaching Assistant to [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/)** (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with the development and teaching of coding practicals for two summer school courses:\
     Introduction to Text Mining in R, and Applied Text Mining (Python).
 
-* **Teaching Internship with [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/)** (May - August 2022)
+* **Teaching Assistant to [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/)** (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with AI-Aided Systematic Reviewing practical construction and teaching.
 
@@ -85,13 +85,13 @@ Data Analyst / Consultant Experience
 * **Data Analyst / Consultant** (September 2021 - March 2022)
   * ARGO BV / Univeristy Medical Center Groningen 
   * Collection, processing and visualization of socio-economic indicators.
-  * Supervisor: Dr. Roya Shokoohi and Dr. Peter van Linschoten
+  * Supervisors: Dr. Roya Shokoohi and Dr. Peter van Linschoten
 
 * **Data Analyst / Consultant** (February - September 2020)
-  * Neuroflash 
+  * Neuroflash
   * Visualization of text networks, interpretation of findings,\
     construction of narratives for several projects and presentation of findings to external clients.
-  * Supervisor: Dr. Jonathan Mall
+  *Supervisor: Dr. Jonathan Mall
 
 Academic Coordinator / Administrator Experience
 ======

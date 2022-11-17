@@ -23,7 +23,7 @@ Interests:
 - Active Learning & Deep Learning
 - Explainable AI (XAI)
 - Systematic Reviews
-- Mental Health
+- Psychological Research
 
 Active in:
 ======
