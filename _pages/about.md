@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a rising statistician / data scientist in the final year of [MSc Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://uu.nl/en).
+I am always curious and in awe about something.\
 To me, there is nothing more exciting than discovering how the world works.\
-I am always curious and in awe about something.
 That is why I love learning and doing research.
 
 Interests:
