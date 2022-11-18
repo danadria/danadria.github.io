@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Anadria, MSc"
+title                    : "Daniel Anadria"
 title_separator          : "-"
 name                     : &name "Daniel Anadria"
 description              : &description "Statistician & Data Scientist"
