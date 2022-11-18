@@ -10,7 +10,7 @@ paperurl: 'http://danadria.github.io/files/paper4.pdf'
 ---
 This paper is about the relationship between funeral arrangements and grief over time.
 
-[Download paper here](http://danadria.github.io/files/paper4.pdf)
+[Download paper here](https://dspace.library.uu.nl/bitstream/handle/1874/409975/Funeral_practices_and_grief.pdf?sequence=1)
 
 BibTex citation: 
 

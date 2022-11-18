@@ -10,7 +10,7 @@ paperurl: 'http://danadria.github.io/files/paper3.pdf'
 ---
 This paper is on the effects of minimal funeral arrangements on grief over time.
 
-[Download paper here](http://danadria.github.io/files/paper3.pdf)
+[Download paper here](https://journals.sagepub.com/doi/pdf/10.1177/0030222820919253)
 
 BibTeX citation:
 

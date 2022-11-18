@@ -5,7 +5,7 @@ permalink: /publication/10.1007/s11126-019-09648-x
 excerpt: 'This paper is about prevalence of post-traumatic symptoms in therapists who have been assaulted by their clients.'
 date: 2019-05-27
 venue: 'Psychiatric Quarterly'
-paperurl: 'http://danadria.github.io/files/paper1.pdf'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/s11126-019-09648-x.pdf'
 
 ---
 Violence against therapists by their clients is a common occurrence across clinical settings. We estimate the frequency of trauma-induced symptoms in psychotherapists.
