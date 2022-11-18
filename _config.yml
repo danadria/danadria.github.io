@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Daniel Anadria"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Daniel Anadria"
-description              : &description "Statistician & Data Scientist"
+description              : &description "Statistician | Data Scientist"
 url                      : https://danadria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danadria/danadria.github.io"
