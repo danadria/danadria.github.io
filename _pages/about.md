@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 excerpt: "About Daniel Anadria"
 author_profile: true
