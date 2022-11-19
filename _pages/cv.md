@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
+excerpt: "Daniel Anadria CV / Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:

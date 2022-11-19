@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "Daniel Anadria Publications"
 permalink: /publications/
 author_profile: true
 ---
