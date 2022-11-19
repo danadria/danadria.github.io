@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Statistician & Data Scientist"
   location         : "Utrecht, NL"
-  employer         : "Department of Methodology and Statistics, Utrecht University"
+  employer         : #"Department of Methodology and Statistics, Utrecht University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E5wiCxMAAAAJ"
   email            : "d.anadria@uu.nl"
