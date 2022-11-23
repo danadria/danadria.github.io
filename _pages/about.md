@@ -18,10 +18,10 @@ That is why I love learning and doing research.
 Interests:
 ======
 - NLP & Text-Mining
+- Explainable AI (XAI)
 - Latent Class Analysis & Structural Equation Modelling
 - Feature Attribution & Feature Selection
 - Active Learning & Deep Learning
-- Explainable AI (XAI)
 - Systematic Reviews
 - Mental Health
 
@@ -29,6 +29,6 @@ Active in:
 ======
 - [ASReview Team](https://asreview.nl/)
 - [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data)
-- [Natural Language Processing Group](https://nlp.sites.uu.nl/)
+- [M&S NLP Group](https://nlp.sites.uu.nl/)
 
 
