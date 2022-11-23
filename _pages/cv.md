@@ -15,13 +15,13 @@ Education
 
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences), Utrecht University, 2023\
 Applied Data Science Track\
-Active in: NLP group, Missing Data group, ASReview team\
-You can read my [Research Master's Thesis Proposal](http://danadria.github.io/files/Anadria_Thesis_Proposal.pdf)
+Active in: [M&S NLP Group](https://nlp.sites.uu.nl/), [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data), [ASReview Team](https://asreview.nl/)\
+Research Master's Thesis (Proposal): ["Unblackboxing BERT for Text-Mining: Case of Mental Disorder Prediction"]((http://danadria.github.io/files/MSc_Thesis_Proposal.pdf))\
 
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
 Member of the Excellence Program for Psychology & Honors College\
-You can read my [Honors Bachelor's Thesis](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)
+Honors Bachelor's Thesis: ["Catch Me if You Can: Detecting Bipolar Disorder from Social Media"](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf)
 
 
 Research Experience
