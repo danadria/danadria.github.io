@@ -105,7 +105,7 @@ Academic Coordinator / Administrator Experience
   * University of Groningen
   * Tracked student attendance, issued and graded student make-up assignments for two BSc Psychology courses.
 
-Skills
+Software
 ======
 * R
 * Python
