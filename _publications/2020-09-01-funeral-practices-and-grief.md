@@ -5,7 +5,7 @@ permalink: /publication/10.1080/0268262120201828774
 excerpt: 'This paper is about the relationship between funeral arrangements and grief over time.'
 date: 2020-09-01
 venue: 'Bereavement Care'
-paperurl: 'http://danadria.github.io/files/paper4.pdf'
+paperurl: 'https://dspace.library.uu.nl/bitstream/handle/1874/409975/Funeral_practices_and_grief.pdf?sequence=1'
 
 ---
 This paper is about the relationship between funeral arrangements and grief over time.
