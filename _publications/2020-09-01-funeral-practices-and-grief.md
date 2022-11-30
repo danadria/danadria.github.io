@@ -10,7 +10,7 @@ paperurl: 'https://dspace.library.uu.nl/bitstream/handle/1874/409975/Funeral_pra
 ---
 This paper is about the relationship between funeral arrangements and grief over time.
 
-[Download paper here](https://dspace.library.uu.nl/bitstream/handle/1874/409975/Funeral_practices_and_grief.pdf?sequence=1)
+[Download paper here](https://dspace.library.uu.nl/bitstream/handle/1874/409975/Funeral_practices_and_grief.pdf?sequence=1){:target="_blank" rel="noopener"}
 
 BibTex citation: 
 

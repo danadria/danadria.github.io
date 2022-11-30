@@ -27,8 +27,8 @@ Interests:
 
 Active in:
 ======
-- [ASReview Team](https://asreview.nl/)
-- [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data)
-- [M&S NLP Group](https://nlp.sites.uu.nl/)
+- [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}
+- [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 
 

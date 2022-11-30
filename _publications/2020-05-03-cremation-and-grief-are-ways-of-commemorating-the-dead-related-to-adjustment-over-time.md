@@ -10,7 +10,7 @@ paperurl: 'https://journals.sagepub.com/doi/pdf/10.1177/0030222820919253'
 ---
 This paper is on the effects of minimal funeral arrangements on grief over time.
 
-[Download paper here](https://journals.sagepub.com/doi/pdf/10.1177/0030222820919253)
+[Download paper here](https://journals.sagepub.com/doi/pdf/10.1177/0030222820919253){:target="_blank" rel="noopener"}
 
 BibTeX citation:
 
