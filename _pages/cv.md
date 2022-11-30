@@ -16,7 +16,7 @@ Education
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences), Utrecht University, 2023\
 Applied Data Science Track\
 Active in: [M&S NLP Group](https://nlp.sites.uu.nl/), [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data), [ASReview Team](https://asreview.nl/)\
-Research Master's Thesis (*Proposal*): [*"Unblackboxing BERT for Text-Mining: Case of Mental Disorder Prediction"*]((http://danadria.github.io/files/MSc_Thesis_Proposal.pdf))
+Research Master's Thesis (*Proposal*): [*"Unblackboxing BERT for Text-Mining: Case of Mental Disorder Prediction"*]((http://danadria.github.io/files/MSc_Thesis_Proposal.pdf)
 
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en), University of Groningen, 2021\
@@ -84,7 +84,7 @@ Data Analyst / Consultant Experience
 ======
 
 * **Data Analyst / Consultant** (September 2021 - March 2022)
-  * ARGO BV / Univeristy Medical Center Groningen 
+  * ARGO BV / University Medical Center Groningen 
   * Collection, processing and visualization of socio-economic indicators.
   * Supervisors: Dr. Roya Shokoohi and Dr. Peter van Linschoten
 
