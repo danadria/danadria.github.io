@@ -34,7 +34,7 @@ Research Experience
 
 * **Researcher at Missing Data Group** (September 2022 - ongoing)
   * Utrecht University
-  * Developing a new machine-learning-based feature selection function for the R package mice,\
+  * Developing a new machine-learning-based feature selection function for the R package `mice`,\
     designing simulation studies to compare different algorithms.
   * The project is open-source and available on [GitHub](https://github.com/danadria/feature.selector){:target="_blank" rel="noopener"}
 
