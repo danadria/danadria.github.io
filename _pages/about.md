@@ -15,9 +15,9 @@ My primary project is the development of a new feature attribution technique for
 which can be used to explain which words, phrases and sentences are driving its predictions.
 I am always curious and in awe about something.
 This is reflected in my side projects which I greatly enjoy:
-- Collaborating on an article about best practices in latent class analysis using free open source software
-- Collaborating on a meta-analysis about the use of active learning for systematic reviews
-- Collaborating on the implementation of novel feature selection techniques for the R package `mice` 
+- Collaboration on an article about best practices in latent class analysis using free open source software
+- Collaboration on a meta-analysis about the use of active learning for systematic reviews
+- Collaboration on the implementation of novel feature selection techniques for the `mice` R package 
 
 
 
