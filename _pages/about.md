@@ -10,8 +10,7 @@ redirect_from:
 
 I am a rising statistician and data scientist in the final year 
 of [MSc Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss){:target="_blank" rel="noopener"} 
-at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}.
-To me, there is nothing more exciting than discovering how the world works. 
+at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}. 
 My primary project is the development of a new feature attribution technique for BERT 
 which can be used to explain which words, phrases and sentences are driving the prediction.
 I am always curious and in awe about something.
