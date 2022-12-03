@@ -32,7 +32,6 @@ Interests:
 - Feature Attribution & Feature Selection
 - Active Learning & Deep Learning
 - Systematic Reviews
-- Mental Health
 
 Active in:
 ======
