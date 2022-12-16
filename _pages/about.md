@@ -11,8 +11,8 @@ redirect_from:
 I am a rising statistician and data scientist in the final year 
 of [MSc Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss){:target="_blank" rel="noopener"} 
 at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}. 
-My primary project is the development of a new feature attribution technique for BERT 
-which can be used to explain which words, phrases and sentences are driving its predictions.
+My primary project is the development of a new feature attribution technique for transformer models such as BERT 
+which can be used to explain which words, phrases and sentences are driving their predictions.
 I am always curious and in awe about something.
 This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
