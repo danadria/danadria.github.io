@@ -29,7 +29,7 @@ Research Experience
 
 * **Researcher at ASReview** (September 2022 - ongoing)
   * Utrecht University
-  * Drafting a meta-analysis on the use of active learning for systematic reviews.
+  * Drafting a systematic review on the use of active learning for systematic reviews.
   * Taught a text-mining computer practical to MSc Applied Data Science students.
 
 * **Researcher at Missing Data Group** (September 2022 - ongoing)
@@ -44,11 +44,11 @@ Research Experience
 
 * **Research Assistant to [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research){:target="_blank" rel="noopener"}** (March - May 2019)
   * University of Groningen
-  * Digitalized and prepared survey data for two separate studies.
+  * Digitized and prepared survey data for two separate studies.
 
 * **Research Internship with [Prof. Dr. Margaret Stroebe](https://www.uu.nl/staff/msstroebe){:target="_blank" rel="noopener"} and [Dr. Henk Schut](https://www.uu.nl/staff/hschut){:target="_blank" rel="noopener"}** (July 2018 - March 2020)
   * Utrecht University / University of Groningen
-  * Data digitalization, survey design, statistical analyses.
+  * Data digitization, survey design, statistical analyses, and article drafting.
   * Peer-review for OMEGA - Journal of Death and Dying under Dr. Stroebe's supervision.
 
 * **Research Internship with [Prof. Dr. Judith Daniels](https://www.rug.nl/staff/j.k.daniels/){:target="_blank" rel="noopener"}** (June 2017 - September 2018)
