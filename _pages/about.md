@@ -16,7 +16,7 @@ which can be used to explain which words, phrases and sentences are driving thei
 I am always curious and in awe about something.
 This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
-- Collaboration on a meta-analysis about the use of active learning for systematic reviews
+- Collaboration on a systematic review about the use of active learning for systematic reviews
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` 
 
 
