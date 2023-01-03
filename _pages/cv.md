@@ -69,7 +69,7 @@ Teaching Experience
 
 * **Teaching Internship - Statistics II** (September 2020 - January 2021)
   * University of Gronignen
-  * Taught 2^{nd} year BSc Psychology students statistics computer practicals in JASP. 
+  * Taught $2^{nd}$ year BSc Psychology students statistics computer practicals in JASP. 
 
 
 * **Teaching Internship - Dialogue and Group Skills** (February - June 2019)
