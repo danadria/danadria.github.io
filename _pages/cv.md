@@ -60,12 +60,17 @@ Teaching Experience
 
 * **Teaching Assistant to [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/){:target="_blank" rel="noopener"}** (May - August 2022)
   * Methodology and Statistics Summer School
-  * Assisted with the development and teaching of coding practicals for two summer school courses:\
+  * Assisted with the update and teaching of coding practicals for two summer school courses:\
     Introduction to Text Mining in R, and Applied Text Mining (Python).
 
 * **Teaching Assistant to [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/){:target="_blank" rel="noopener"}** (May - August 2022)
   * Methodology and Statistics Summer School
   * Assisted with AI-Aided Systematic Reviewing practical construction and teaching.
+
+* **Teaching Internship - Statistics II** (September 2020 - January 2021)
+  * University of Gronignen
+  * Taught 2^{nd} year BSc Psychology students statistics computer practicals in JASP. 
+
 
 * **Teaching Internship - Dialogue and Group Skills** (February - June 2019)
   * University of Gronignen
