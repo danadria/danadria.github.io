@@ -95,7 +95,7 @@ Data Analyst / Consultant Experience
 
 * **Data Analyst / Consultant** (February - September 2020)
   * Neuroflash
-  * Visualization of text networks, interpretation of findings,\
+  * Visualization of multilingual semantic networks, interpretation of findings,\
     construction of narratives for several projects and presentation of findings to external clients.
   * Supervisor: Dr. Jonathan Mall
 
