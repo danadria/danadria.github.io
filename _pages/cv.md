@@ -105,6 +105,7 @@ Academic Coordinator / Administrator Experience
 * **Coordinator Summer School Methodology and Statistics** (May - August 2022)
   * Department of Methodology and Statistics, Utrecht University
   * Supported my department in the organization and administration of 18 summer school courses for over 650 students.
+  * Designed evaluation forms and prepared a report.
 
 * **Course Administrator** (September 2019 - February 2021)
   * University of Groningen
