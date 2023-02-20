@@ -39,4 +39,8 @@ Active in:
 - [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}
 
 
+Consultation:
+======
+
+I find problem-solving and knowledge-sharing incredibly fulfilling! If you think I might be able to help, don't hesitate to [reach out!](mailto:danadria@uu.nl)
 
