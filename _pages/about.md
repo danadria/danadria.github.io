@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About Daniel Anadria"
+title: ""
+excerpt: "Daniel Anadria's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 I am a rising statistician and a data scientist in the final year 
 of [MSc Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss){:target="_blank" rel="noopener"} 
 at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}. 
-My primary project is the development of a new feature attribution technique for transformer models such as BERT 
+My primary project is the development of a new feature attribution technique for transformer language models such as BERT 
 which can be used to explain which words, phrases and sentences are driving their predictions.
 I am always curious and in awe about something.
 This is reflected in my side projects which I greatly enjoy:
@@ -26,16 +26,17 @@ This is reflected in my side projects which I greatly enjoy:
 Interests:
 ======
 - NLP & Text-Mining
-- Explainable AI (XAI)
-- Latent Class Analysis & Structural Equation Modelling
+- Algorithmic Fairness & Explainable AI (XAI)
 - Feature Attribution & Feature Selection
 - Active Learning & Deep Learning
 - Systematic Reviews
+- Latent Class Analysis & Structural Equation Modeling
 
 Active in:
 ======
-- [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}
-- [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 - [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
+- [Mice (Multivariate Imputation by Chained Equations) Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}
+
 
 

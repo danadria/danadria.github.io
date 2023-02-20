@@ -15,7 +15,7 @@ Education
 
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences){:target="_blank" rel="noopener"}, Utrecht University, 2023\
 Applied Data Science Track\
-Active in: [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}, [Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}, [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}\
+Active in: [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}, [Mice Team/ Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}, [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}\
 Research Master's Thesis (*Proposal*): [*"Unblackboxing BERT for Text-Mining: Case of Mental Disorder Prediction"*](http://danadria.github.io/files/MSc_Thesis_Proposal.pdf){:target="_blank" rel="noopener"}
 
 
@@ -27,10 +27,7 @@ Honors Bachelor's Thesis: [*"Catch Me if You Can: Detecting Bipolar Disorder fro
 Research Experience
 ======
 
-* **Researcher at ASReview** (September 2022 - ongoing)
-  * Utrecht University
-  * Drafting a systematic review on the use of active learning for systematic reviews.
-  * Taught a text-mining computer practical to MSc Applied Data Science students.
+
 
 * **Researcher at Missing Data Group** (September 2022 - ongoing)
   * Utrecht University
@@ -38,9 +35,14 @@ Research Experience
     designing simulation studies to compare different algorithms.
   * The project is open-source and available on [GitHub](https://github.com/danadria/feature.selector){:target="_blank" rel="noopener"}
 
-* **Research Assistant to [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa){:target="_blank" rel="noopener"}** (April 2022 - ongoing)
+* **Research Assistant to [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa){:target="_blank" rel="noopener"}** (April 2022 - December 2022)
   * Tilburg University
   * Literature search and article drafting on the topic of Latent Class Analysis.
+  
+* **Researcher at ASReview** (September 2022 - December 2022)
+  * Utrecht University
+  * Extracted information from articles for a systematic review on the use of active learning for systematic reviews.
+  * Taught a text-mining computer practical to MSc Applied Data Science students.
 
 * **Research Assistant to [Dr. Simon Dalley](https://www.rug.nl/staff/s.e.dalley/research){:target="_blank" rel="noopener"}** (March - May 2019)
   * University of Groningen
