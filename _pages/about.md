@@ -17,7 +17,7 @@ I am always curious and in awe about something.
 This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
 - Collaboration on a systematic review about the use of active learning for systematic reviews
-- Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` 
+- Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations)
 
 
 
@@ -35,7 +35,7 @@ Interests:
 Active in:
 ======
 - [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
-- [Mice (Multivariate Imputation by Chained Equations) Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 - [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}
 
 
