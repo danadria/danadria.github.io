@@ -115,12 +115,12 @@ Academic Coordinator / Administrator Experience
 
 Software
 ======
-* R
 * Python
+* R
+* LaTeX
 * JASP
 * SPSS
 * Mplus
-* LaTeX
 * Zotero
 
 Publications
