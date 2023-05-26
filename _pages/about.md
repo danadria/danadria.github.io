@@ -44,7 +44,6 @@ What's new:
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
 
-
 Consultation:
 ======
 
