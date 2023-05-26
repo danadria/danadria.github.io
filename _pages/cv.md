@@ -16,12 +16,12 @@ Education
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences){:target="_blank" rel="noopener"}, Utrecht University, 2023\
 Applied Data Science Track\
 Active in: [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}, [Mice Team/ Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}, [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}\
-Research Master's Thesis (*Proposal*): [*"Unblackboxing BERT for Text-Mining: Case of Mental Disorder Prediction"*](http://danadria.github.io/files/MSc_Thesis_Proposal.pdf){:target="_blank" rel="noopener"}
+Research Master's Thesis: "Unblackboxing BERT for Text-Mining: Case of Mental Disorder Prediction"
 
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en){:target="_blank" rel="noopener"}, University of Groningen, 2021\
 Member of the Excellence Program for Psychology & Honors College\
-Honors Bachelor's Thesis: [*"Catch Me if You Can: Detecting Bipolar Disorder from Social Media"*](http://danadria.github.io/files/HBT_Anadria_s3091678.pdf){:target="_blank" rel="noopener"}
+Honors Bachelor's Thesis: "Catch Me if You Can: Detecting Bipolar Disorder from Social Media"
 
 
 Research Experience
