@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
+Hi! 👋 
+
 My name is Daniel Anadria and I am an upcoming PhD candidate at Utrecht University's Department of Methodology and Statistics / Public Values in the Algorithmic Society Consortium (AlgoSoc).
 
-I have a background in psychology, methodology, statistics for behavioral, biomedical, and social sciences, and applied data science with a strong focus on natural language processing. My upcoming research will concern fairness of algorithmic decision-making in healthcare.
+I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing. My upcoming research will concern fairness of algorithmic decision-making in healthcare.
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
