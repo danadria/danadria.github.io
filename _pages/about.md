@@ -10,6 +10,7 @@ redirect_from:
 
 
 Hi! 👋 
+======
 
 My name is Daniel Anadria and I am an upcoming PhD candidate at Utrecht University's Department of Methodology and Statistics / Public Values in the Algorithmic Society Consortium (AlgoSoc).
 
@@ -27,11 +28,8 @@ This is reflected in my side projects which I greatly enjoy:
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
 
 
+My interests involve:
 
-
-
-Interests:
-======
 - Natural Language Processing & Text-Mining
 - Algorithmic Fairness & Explainable AI (XAI)
 - Feature Attribution & Feature Selection
@@ -39,22 +37,20 @@ Interests:
 - Systematic Reviews
 - Latent Class Analysis & Structural Equation Modeling
 
-Member of:
-======
+I am a member of:
+
 - [Public Values in the Algorithmic Society Consortium (AlgoSoc)](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 
---
+
+I find problem-solving and knowledge-sharing incredibly fulfilling! If you think I might be able to help, feel free to [reach out!](mailto:danadria@uu.nl)
+
 What's new:
 ======
 - Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
---
-Consultation:
-======
 
-I find problem-solving and knowledge-sharing incredibly fulfilling! If you think I might be able to help, feel free to [reach out!](mailto:danadria@uu.nl)
 
