@@ -12,9 +12,9 @@ redirect_from:
 Hi! 👋 
 ======
 
-My name is Daniel Anadria and I am an upcoming PhD candidate at Utrecht University's Department of Methodology and Statistics / Public Values in the Algorithmic Society Consortium (AlgoSoc).
+My name is Daniel Anadria and I am a PhD candidate at Utrecht University's Department of Methodology and Statistics / Public Values in the Algorithmic Society Consortium (AlgoSoc).
 
-I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing. My upcoming research will concern fairness of algorithmic decision-making in healthcare.
+I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). My research will concern fairness of NLP-supported clinical decision-making process in healthcare.
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
@@ -37,18 +37,22 @@ My interests involve:
 - Systematic Reviews
 - Latent Class Analysis & Structural Equation Modeling
 
-I am a member of:
+I am a affiliated with:
 
 - [Public Values in the Algorithmic Society Consortium (AlgoSoc)](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 
 
-I find problem-solving and knowledge-sharing incredibly fulfilling! If you think I might be able to help, feel free to [reach out!](mailto:danadria@uu.nl)
+Want to get in touch? 😁
+======
+
+I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl). I find human connection, problem-solving and knowledge-sharing incredibly fulfilling!
 
 What's new:
 ======
-- Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair
+- Will be a TA in [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
+- Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair! 🪑
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
