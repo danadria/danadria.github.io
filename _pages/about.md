@@ -30,7 +30,7 @@ This is reflected in my side projects which I greatly enjoy:
 
 My interests involve:
 
-- Natural Language Processing & Text-Mining
+- NLP & Text-Mining
 - Algorithmic Fairness & Explainable AI (XAI)
 - Feature Attribution & Feature Selection
 - Deep Learning
