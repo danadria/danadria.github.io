@@ -50,10 +50,10 @@ What's new?
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
-Want to get in touch? 😁 
+Want to get in touch? 🔥
 ======
 
-I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl). I find human connection, knowledge-sharing and problem-solving incredibly fulfilling!
+I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling!
 
 
 
