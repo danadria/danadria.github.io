@@ -12,7 +12,7 @@ redirect_from:
 Hi! 👋 
 ======
 
-My name is Daniel Anadria and I am a PhD candidate at Utrecht University's Department of Methodology and Statistics / Public Values in the Algorithmic Society (AlgoSoc) Consortium.
+My name is Daniel Anadria and I am a PhD candidate at Utrecht University. I'm affiliated with the Department of Methodology and Statistics and the Public Values in the Algorithmic Society (AlgoSoc) Consortium.
 
 I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). My research will concern fairness of NLP-supported clinical decision-making process in healthcare.
 
@@ -36,7 +36,7 @@ My interests involve:
 - Deep Learning
 - Latent Class Analysis & Structural Equation Modeling
 
-I am a affiliated with:
+I am a member of:
 
 - [AlgoSoc Consortium](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
