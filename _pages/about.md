@@ -43,7 +43,7 @@ I am a member of:
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 
 
-What's new?
+What's new? 🗞️
 ======
 - Will be a TA in [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 - Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair! 🪑
