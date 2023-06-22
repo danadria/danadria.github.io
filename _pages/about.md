@@ -12,7 +12,7 @@ redirect_from:
 Hi! 👋 
 ======
 
-My name is Daniel Anadria and I am a PhD candidate at Utrecht University's Department of Methodology and Statistics and the Algorithmic Society (AlgoSoc) Consortium. I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). 
+My name is Daniel Anadria. I am a statistician and data scientist pursuing a PhD at Utrecht University's Department of Methodology and Statistics and the Algorithmic Society Consortium (AlgoSoc). I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). 
 
 I am researching ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on NLP-systems for clinical decision-making. My supervisors are dr. Anastasia Giachanou and prof. dr. Daniel Oberski.
 
