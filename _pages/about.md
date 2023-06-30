@@ -27,20 +27,20 @@ This is reflected in my side projects which I greatly enjoy:
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
 
 
-My interests involve:
-
-- Text Mining & Natural Language Processing
-- Algorithmic Fairness & Explainable AI
-- Feature Attribution & Feature Selection
-- Deep Learning
-- Latent Class Analysis & Structural Equation Modeling
-
 I am a member of:
 
 - [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 - [Human Data Science](https://hds.sites.uu.nl/researchers/)
+
+My interests involve:
+
+- Text Mining & Natural Language Processing
+- Algorithmic Fairness & Explainable AI
+- Feature Attribution & Feature Selection
+<!-- - Deep Learning
+- Latent Class Analysis & Structural Equation Modeling -->
 
 
 What's new? 🗞️
@@ -51,11 +51,14 @@ What's new? 🗞️
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
-Want to get in touch? 😉
+<!-- Want to get in touch? 😉
 ======
 
-I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling!
+I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling! -->
 
+<br><br>
+<br><br>
+<br><br>
 ![logos](/images/logos.png)
 
 
