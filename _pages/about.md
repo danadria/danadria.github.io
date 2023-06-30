@@ -26,7 +26,7 @@ This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
 
-<br><br>
+<br>
 
 I am a member of:
 
@@ -41,7 +41,7 @@ My interests involve:
 - Algorithmic Fairness & Explainable AI
 - Feature Attribution & Feature Selection
 
-<br><br>
+<br>
 
 What's new? 🗞️
 ======

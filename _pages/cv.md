@@ -13,6 +13,9 @@ redirect_from:
 Education
 ======
 
+* **PhD Candidate**, Utrecht University, from September 2023\
+
+
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences){:target="_blank" rel="noopener"}, Utrecht University, 2023\
 Applied Data Science Track\
 Active in: [M&S NLP Group](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}, [Mice Team/ Missing Data Group](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}, [ASReview Team](https://asreview.nl/){:target="_blank" rel="noopener"}\
