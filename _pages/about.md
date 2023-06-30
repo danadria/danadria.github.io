@@ -39,9 +39,9 @@ My interests involve:
 - Text Mining & Natural Language Processing
 - Algorithmic Fairness & Explainable AI
 - Feature Attribution & Feature Selection
-<!-- - Deep Learning
-- Latent Class Analysis & Structural Equation Modeling -->
 
+<br><br>
+<br><br>
 
 What's new? 🗞️
 ======
@@ -56,7 +56,6 @@ What's new? 🗞️
 
 I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling! -->
 
-<br><br>
 <br><br>
 <br><br>
 ![logos](/images/logos.png)
