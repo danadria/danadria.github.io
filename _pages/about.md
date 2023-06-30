@@ -26,10 +26,11 @@ This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
 
+<br><br>
 
 I am a member of:
 
-- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
+- [Algorithmic Society (AlgoSoc)](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 - [Human Data Science](https://hds.sites.uu.nl/researchers/)
@@ -40,7 +41,6 @@ My interests involve:
 - Algorithmic Fairness & Explainable AI
 - Feature Attribution & Feature Selection
 
-<br><br>
 <br><br>
 
 What's new? 🗞️
@@ -56,7 +56,6 @@ What's new? 🗞️
 
 I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling! -->
 
-<br><br>
 <br><br>
 ![logos](/images/logos.png)
 
