@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![logo](/images/site-logo.png)
+![UU_logo](/images/UU_logo_2021_EN_RGB.png)
 
 Hi! 👋 
 ======
