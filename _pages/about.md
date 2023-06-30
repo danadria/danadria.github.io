@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![UU_logo](/images/UU_logo_2021_EN_RGB.png)
-
 Hi! 👋 
 ======
 
@@ -57,6 +55,8 @@ Want to get in touch? 😉
 ======
 
 I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling!
+
+![logos](/images/logos.png)
 
 
 
