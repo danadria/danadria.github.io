@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+![logo](/images/site-logo.png)
 
 Hi! 👋 
 ======
 
-My name is Daniel Anadria. I am a rising statistician and data scientist pursuing a PhD at Utrecht University's Department of Methodology and Statistics and the Algorithmic Society consortium (AlgoSoc). I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). 
+My name is Daniel Anadria. I am a rising statistician and data scientist pursuing a PhD at Utrecht University's Department of Methodology and Statistics and the Algorithmic Society consortium. I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). 
 
-I am researching ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on NLP-systems for clinical decision-making. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
+I am researching ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on NLP-systems for clinical decision-making. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. dr. Daniel Oberski.
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
@@ -30,7 +31,7 @@ This is reflected in my side projects which I greatly enjoy:
 
 My interests involve:
 
-- Text-Mining & NLP
+- Text Mining & Natural Language Processing
 - Algorithmic Fairness & Explainable AI
 - Feature Attribution & Feature Selection
 - Deep Learning
@@ -39,13 +40,14 @@ My interests involve:
 I am a member of:
 
 - [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
-- [Human Data Science](https://hds.sites.uu.nl/researchers/)
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [Human Data Science](https://hds.sites.uu.nl/researchers/)
 
 
 What's new? 🗞️
 ======
+- The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 
 - Will be a TA in [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 - Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair! 🪑
 - Defended MSc Thesis! 🎉
