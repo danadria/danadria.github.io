@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* **PhD Candidate**, Utrecht University, from September 2023
+* **PhD Candidate Clinical Data Science**, Utrecht University, from September 2023
 
 
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences){:target="_blank" rel="noopener"}, Utrecht University, 2023\
