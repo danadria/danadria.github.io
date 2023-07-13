@@ -41,7 +41,8 @@ I am a member of:
 My interests involve:
 
 - Text Mining & Natural Language Processing 📚
-- Algorithmic Fairness & Explainable AI ⚖️
+- Algorithmic Fairness ⚖️
+- Explainable AI 🔎
 
 <br>
 
