@@ -16,7 +16,7 @@ My name is Daniel Anadria and I am pursuing a doctoral degree in clinical data s
 I have a background in research psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on clinical natural language processing (NLP) and text mining. 
 
 
-My Ph.D. research explores ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on NLP algorithms. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
+My research explores ways to ensure that automated decision-making systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of NLP algorithms. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
