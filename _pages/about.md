@@ -10,12 +10,13 @@ redirect_from:
 Hi! 👋 
 ======
 
-My name is Daniel Anadria. I am a statistican and a data scientist pursuing a doctoral degree in clinical data science at Utrecht University.
+My name is Daniel Anadria and I am pursuing a doctoral degree in clinical data science at Utrecht University.
 
 
-I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on clinical natural language processing (NLP) and text mining. 
+I have a background in research psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on clinical natural language processing (NLP) and text mining. 
 
-My research explores ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on clinical NLP systems. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
+
+My Ph.D. research explores ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on NLP algorithms. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
@@ -39,9 +40,8 @@ I am a member of:
 
 My interests involve:
 
-- Text Mining & Natural Language Processing
-- Algorithmic Fairness & Explainable AI
-- Feature Attribution & Feature Selection
+- Text Mining & Natural Language Processing 📚
+- Algorithmic Fairness & Explainable AI ⚖️
 
 <br>
 
