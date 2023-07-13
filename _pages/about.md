@@ -10,9 +10,12 @@ redirect_from:
 Hi! 👋 
 ======
 
-My name is Daniel Anadria. I am a clinical data scientist pursuing a PhD at Utrecht University's Department of Methodology and Statistics and the Algorithmic Society consortium. I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on natural language processing (NLP). 
+My name is Daniel Anadria. I am a statistican and a data scientist pursuing a doctoral degree in clinical data science at Utrecht University.
 
-I am researching ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on NLP-systems for clinical decision-making. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. dr. Daniel Oberski.
+
+I have a background in psychology, methodology and statistics for behavioral, biomedical and social sciences, and applied data science with a strong focus on clinical natural language processing (NLP) and text mining. 
+
+My research explores ways to implement fair and transparent automated decision-making systems in healthcare, specifically focusing on clinical NLP systems. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
@@ -29,7 +32,7 @@ This is reflected in my side projects which I greatly enjoy:
 
 I am a member of:
 
-- [Algorithmic Society (AlgoSoc)](https://algosoc.org/){:target="_blank" rel="noopener"}
+- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [M&S NLP Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
 - [Human Data Science](https://hds.sites.uu.nl/researchers/)
