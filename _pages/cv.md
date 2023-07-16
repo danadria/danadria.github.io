@@ -107,6 +107,13 @@ Data Analyst / Consultant Experience
 Academic Coordinator / Administrator Experience
 ======
 
+* **Proceedings Chair** (May - July 2023)
+  * The 2nd European Workshop on Algorithmic Fairness (EWAF 2023), Switzerland
+  * Ensured quality of accepted papers, reached out to authors to collect camera-ready pdfs and author agreements
+  * Participation funded by the Swiss National Science Foundation
+
+
+
 * **Coordinator Summer School Methodology and Statistics** (May - August 2022)
   * Department of Methodology and Statistics, Utrecht University
   * Supported my department in the organization and administration of 18 summer school courses for over 650 students.
