@@ -18,7 +18,30 @@ I have a background in text mining, applied data science, methodology and statis
 
 My research explores ways to ensure that automated decision-making systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of NLP algorithms deployed in healthcare. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
 
-If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl)
+My interests involve:
+
+- Algorithmic Fairness 🤖⚖️
+- Explainable AI 🔎🦾
+- Natural Language Processing & Text Mining 📚⛏️
+
+I am a member of:
+
+- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
+- [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
+- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [Human Data Science](https://hds.sites.uu.nl/researchers/)
+
+I work in: 
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
+
 
 
 <!-- I am a rising statistician and a data scientist in the final year 
@@ -33,20 +56,8 @@ This is reflected in my side projects which I greatly enjoy:
 
 <br>
 
-I am a member of:
 
-- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
-- [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
-- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
-- [Human Data Science](https://hds.sites.uu.nl/researchers/)
 
-My interests involve:
-
-- Algorithmic Fairness 🤖⚖️
-- Explainable AI 🔎🦾
-- Natural Language Processing & Text Mining 📚⛏️
-
-<br>
 
 What's new? 🗞️
 ======
@@ -56,17 +67,12 @@ What's new? 🗞️
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
-GitHub Analytics ⚙️
+
+Want to get in touch? 🤝
 ======
+If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl)
 
-<p align="center">
-<a href="https://github.com/danadria">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danadria&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=default"/>
-</a>
-</p>
-
-<!-- Want to get in touch? 😉
+<!-- Want to get in touch? 🤝
 ======
 
 I'm very outgoing! If you're interesting in any of my work or if you think I might be able to help you with yours, feel free to [reach out!](mailto:danadria@uu.nl) I find human connection, knowledge-sharing and problem-solving incredibly fulfilling! -->
