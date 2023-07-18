@@ -108,7 +108,7 @@ Academic Coordinator / Administrator Experience
 ======
 
 * **Proceedings Chair** (May - July 2023)
-  * The 2nd European Workshop on Algorithmic Fairness (EWAF 2023), Switzerland
+  * The 2nd European Workshop on Algorithmic Fairness (EWAF 2023), Winterthur, Switzerland
   * Ensured quality of accepted papers, reached out to authors to collect camera-ready pdfs and author agreements
   * Participation funded by the Swiss National Science Foundation
 
@@ -125,19 +125,20 @@ Academic Coordinator / Administrator Experience
 
 Software
 ======
-* Python
-* R
-* LaTeX
-* JASP
-* SPSS
-* Mplus
-* Zotero
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 
 
