@@ -108,7 +108,7 @@ Academic Coordinator / Administrator Experience
 ======
 
 * **Proceedings Chair** (May - July 2023)
-  * The 2nd European Workshop on Algorithmic Fairness (EWAF 2023), Winterthur, Switzerland
+  * The 2nd European Workshop on Algorithmic Fairness (EWAF'23), Winterthur, Switzerland
   * Ensured quality of accepted papers, reached out to authors to collect camera-ready pdfs and author agreements
   * Participation funded by the Swiss National Science Foundation
 
