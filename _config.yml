@@ -88,6 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E5wiCxMAAAAJ"
   email            : "danadria@uu.nl"
+  orcid            : "https://orcid.org/0009-0008-2247-4887"
   researchgate     : "https://www.researchgate.net/profile/Daniel-Anadria"
   uri              :
   bitbucket        :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0008-2247-4887"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
