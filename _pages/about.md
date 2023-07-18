@@ -18,18 +18,6 @@ I have a background in text mining, applied data science, methodology and statis
 
 My research explores ways to ensure that automated decision-making systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of NLP algorithms deployed in healthcare. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
 
-My interests involve:
-
-- Algorithmic Fairness 🤖⚖️
-- Explainable AI 🔎🦾
-- Natural Language Processing & Text Mining 📚⛏️
-
-I am a member of:
-
-- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
-- [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
-- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
-- [Human Data Science](https://hds.sites.uu.nl/researchers/)
 
 I work in: 
 
@@ -43,6 +31,20 @@ I work in:
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
 
 
+My interests involve:
+
+- Algorithmic Fairness 🤖⚖️
+- Explainable AI 🔎🦾
+- Natural Language Processing & Text Mining 📚⛏️
+
+
+I am a member of:
+
+- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
+- [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
+- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+- [Human Data Science](https://hds.sites.uu.nl/researchers/)
+
 
 <!-- I am a rising statistician and a data scientist in the final year 
 of [MSc Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss){:target="_blank" rel="noopener"} 
@@ -53,12 +55,6 @@ I am always curious and in awe about something.
 This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
-
-<br>
-
-
-
-
 What's new? 🗞️
 ======
 - The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 

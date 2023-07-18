@@ -123,6 +123,23 @@ Academic Coordinator / Administrator Experience
   * University of Groningen
   * Tracked student attendance, issued and graded student make-up assignments for two BSc Psychology courses.
 
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+
+GitHub Analytics 
+======
+
+<p align="center">
+<a href="https://github.com/danadria">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danadria&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
+
 Software
 ======
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -133,22 +150,6 @@ Software
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-GitHub Analytics ⚙️
-======
-
-<p align="center">
-<a href="https://github.com/danadria">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danadria&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=default"/>
-</a>
-</p>
   
 
 
