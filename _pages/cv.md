@@ -80,7 +80,7 @@ Teaching Experience
 * **Teaching Internship - Dialogue and Group Skills** (February - June 2019)
   * University of Gronignen
   * Planning lessons and teaching BSc Psychology students about basic communication skills and group dynamics.
-  * Revised course syllabus with [Dr. Stacey Donofrio](https://www.rug.nl/staff/s.m.donofrio/){:target="_blank" rel="noopener"}
+  * Revised course syllabus with [**Dr. Stacey Donofrio**](https://www.rug.nl/staff/s.m.donofrio/){:target="_blank" rel="noopener"}
 
 * **Teaching Internship - Working with Psychology** (January - June 2019)
   * University of Gronignen
