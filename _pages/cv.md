@@ -24,7 +24,7 @@ Research Master's Thesis: "Unblackboxing BERT for Text-Mining: Case of Mental Di
 
 * [**BSc Psychology**](https://www.rug.nl/bachelors/psychology-en/?lang=en){:target="_blank" rel="noopener"}, University of Groningen, 2021\
 Member of the Excellence Program for Psychology & Honors College\
-Honors Bachelor's Thesis: "Catch Me if You Can: Detecting Bipolar Disorder from Social Media"
+Honors Bachelor's Thesis: "Detecting Bipolar Disorder from Social Media"
 
 
 Research Experience
