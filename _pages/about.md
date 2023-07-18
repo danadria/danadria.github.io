@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! 👋 
+👋 Hi!  
 ======
 
 My name is Daniel Anadria and I am pursuing a doctoral degree in clinical natural language processing (NLP) at Utrecht University.
@@ -25,7 +25,7 @@ I have a background in text mining, applied data science, methodology and statis
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
 
 
-Research 🔬
+🔬 Research 
 ======
 
 My research explores ways to ensure that automated decision-making systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of NLP algorithms deployed in healthcare. My supervisors at Utrecht University are Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
@@ -49,7 +49,7 @@ This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
 
-What's new? 🗞️
+🗞️ What's new? 
 ======
 - The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 🙌
 - Will be a TA in [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
@@ -58,7 +58,7 @@ What's new? 🗞️
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
 
-Want to get in touch? 🤝
+🤝 Want to get in touch?
 ======
 
 My interests involve:
