@@ -56,6 +56,16 @@ What's new? 🗞️
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
+GitHub Analytics ⚙️
+======
+
+<p align="center">
+<a href="https://github.com/danadria">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danadria&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
+
 <!-- Want to get in touch? 😉
 ======
 
