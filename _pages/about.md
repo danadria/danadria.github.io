@@ -24,6 +24,7 @@ I have a background in text mining, applied data science, methodology and statis
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
 
+<br>
 
 🔬 Research 
 ======
@@ -49,6 +50,8 @@ This is reflected in my side projects which I greatly enjoy:
 - Collaboration on an article about best practices in latent class analysis using free open source software
 - Collaboration on the implementation of state-of-the-art feature selection methods for the R package `mice` (Multivariate Imputation by Chained Equations) -->
 
+<br>
+
 🗞️ What's new? 
 ======
 - The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 🙌
@@ -57,6 +60,7 @@ This is reflected in my side projects which I greatly enjoy:
 - Defended MSc Thesis! 🎉
 - The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
 
+<br>
 
 🤝 Want to get in touch?
 ======
