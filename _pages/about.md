@@ -13,7 +13,9 @@ redirect_from:
 My name is Daniel Anadria and I am pursuing a doctoral degree in clinical natural language processing (NLP) at Utrecht University.
 
 
-I have a background in text mining, applied data science, methodology and statistics, and research psychology. I mostly use: 
+I have a background in text mining, applied data science, methodology and statistics, and research psychology. 
+
+<!-- I mostly use: 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
@@ -22,7 +24,7 @@ I have a background in text mining, applied data science, methodology and statis
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;-->
 
 <br>
 
