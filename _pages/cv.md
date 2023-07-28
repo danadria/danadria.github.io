@@ -14,6 +14,8 @@ Education
 ======
 
 * **PhD Candidate**, Utrecht University
+Position funded by the Dutch Ministry of Education, Culture and Science (OCW).
+Member of the Public Values in the Algorithmic Society research program.
 
 
 * [**MSc Methodology and Statistics (Research)**](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences){:target="_blank" rel="noopener"}, Utrecht University, 2023\
