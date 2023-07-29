@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* **PhD Candidate**, Utrecht University
+* **PhD Candidate**, Utrecht University\
 Position funded by the Dutch Ministry of Education, Culture and Science (OCW).
 Member of the Public Values in the Algorithmic Society research program.
 
