@@ -12,6 +12,12 @@ redirect_from:
 
 My name is Daniel Anadria and I am pursuing a doctoral degree in clinical natural language processing at Utrecht University under the supervision of Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
 
+My interests involve:
+
+- Algorithmic Fairness 🤖⚖️
+- Explainable AI 🔎🦾
+- Natural Language Processing & Text Mining 📚⛏️
+
 
 <!--I have a background in text mining, applied data science, methodology and statistics, and research psychology.  -->
 
@@ -66,12 +72,6 @@ This is reflected in my side projects which I greatly enjoy:
 
 🤝 Want to get in touch?
 ======
-
-My interests involve:
-
-- Algorithmic Fairness 🤖⚖️
-- Explainable AI 🔎🦾
-- NLP & Text Mining 📚⛏️
 
 If you share these interests, are interested in one of my past projects, or would like to consult me about your present work, feel free to [reach out!](mailto:danadria@uu.nl)
 
