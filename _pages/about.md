@@ -10,11 +10,11 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am pursuing a doctoral degree in clinical natural language processing at Utrecht University under the supervision of Dr. Anastasia Giachanou and Prof. Dr. Daniel Oberski.
+My name is Daniel Anadria and I am pursuing a doctoral degree in clinical data science at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou.
 
 My interests involve:
 
-- Algorithmic Fairness 🤖⚖️
+- Algorithmic Justice 🤖⚖️
 - Explainable AI 🔎🦾
 - Natural Language Processing & Text Mining 📚⛏️
 
@@ -37,7 +37,7 @@ My interests involve:
 🔬 Research 
 ======
 
-My research explores ways to ensure that automated decision-making systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of natural language processing algorithms deployed in healthcare.
+My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of natural language processing systems deployed in healthcare.
 
 
 I am a member of:
