@@ -67,7 +67,7 @@ Teaching Experience
   * Methodology and Statistics Summer School
   * Assisted with the update and instruction of coding practicals for two summer school courses:\
     Introduction to Text Mining in R, and Applied Text Mining (Python).
-  * Designed a lab session on transformer models, explainability and bias 
+  * Designed and instructed a [lab session on transformer models, explainability and bias](https://ayoubbagheri.nl/applied_tm/friday/Practicals/Practical%2010/Practical%2010.html) 
 
 * **Teaching Assistant to [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/){:target="_blank" rel="noopener"}** (May - August 2022)
   * Methodology and Statistics Summer School
