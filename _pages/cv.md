@@ -64,10 +64,11 @@ Research Experience
 Teaching Experience
 ======
 
-* **Teaching Assistant to [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/){:target="_blank" rel="noopener"}** (May - August 2022)
+* **Teaching Assistant to [Dr. Ayoub Bagheri](https://ayoubbagheri.nl/){:target="_blank" rel="noopener"}** (May - August 2022, 2023)
   * Methodology and Statistics Summer School
-  * Assisted with the update and teaching of coding practicals for two summer school courses:\
+  * Assisted with the update and instruction of coding practicals for two summer school courses:\
     Introduction to Text Mining in R, and Applied Text Mining (Python).
+  * Designed a lab session on transformer models, explainability and bias 
 
 * **Teaching Assistant to [Prof. Dr. Rens van de Schoot](https://www.rensvandeschoot.com/about-rens/){:target="_blank" rel="noopener"}** (May - August 2022)
   * Methodology and Statistics Summer School
