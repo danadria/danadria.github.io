@@ -37,7 +37,6 @@ Research Experience
   * Utrecht University
   * Developing a new machine-learning-based feature selection function for the R package `mice`,\
     designing simulation studies to compare different algorithms.
-  * The project is open-source and available on [GitHub](https://github.com/danadria/feature.selector){:target="_blank" rel="noopener"}
 
 * **Research Assistant to [Dr. Caspar van Lissa](https://www.tilburguniversity.edu/staff/c-j-vanlissa){:target="_blank" rel="noopener"}** (April 2022 - December 2022)
   * Tilburg University
