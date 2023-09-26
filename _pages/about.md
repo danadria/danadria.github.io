@@ -44,7 +44,7 @@ I am a member of:
 
 - [The Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
-- [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"}
+<!-- - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"} -->
 - [Human Data Science](https://hds.sites.uu.nl/researchers/)
 
 
