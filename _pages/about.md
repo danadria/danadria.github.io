@@ -62,12 +62,12 @@ This is reflected in my side projects which I greatly enjoy:
 
 🗞️ What's new? 
 ======
+- [Article](https://doi.org/10.1080/10705511.2023.2250920) I collaborated on with Caspar van Lissa and Mauricio Garnier-Villarreal got published in Structural Equation Modeling: A Multidisciplinary Journal 🥳
+
 - The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 🙌
 - Will be a TA in [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 - Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair! 🪑
 - Defended MSc Thesis! 🎉
-- The [preprint](https://psyarxiv.com/pruwd/) of my recent collaboration with Caspar van Lissa and Mauricio Garnier-Villarreal is out!
-
 <br>
 
 🤝 Want to get in touch?
