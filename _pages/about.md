@@ -62,7 +62,7 @@ This is reflected in my side projects which I greatly enjoy:
 
 🗞️ What's new? 
 ======
-- [Article](https://doi.org/10.1080/10705511.2023.2250920) I collaborated on with Caspar van Lissa and Mauricio Garnier-Villarreal got published in Structural Equation Modeling: A Multidisciplinary Journal 🥳
+- A collaboration [article](https://doi.org/10.1080/10705511.2023.2250920) with Caspar van Lissa and Mauricio Garnier-Villarreal is published in Structural Equation Modeling: A Multidisciplinary Journal 🥳
 
 - The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 🙌
 - Will be a TA in [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
