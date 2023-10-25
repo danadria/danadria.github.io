@@ -14,7 +14,7 @@ My name is Daniel Anadria and I am pursuing a doctoral degree in clinical data s
 
 My interests involve:
 
-- Algorithmic Justice 🤖⚖️
+- Algorithmic Fairness 🤖⚖️
 - Explainable AI 🔎🦾
 - Natural Language Processing & Text Mining 📚⛏️
 
