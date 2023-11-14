@@ -74,21 +74,21 @@ Teaching Experience
   * Assisted with AI-Aided Systematic Reviewing practical construction and teaching.
 
 * **Teaching Internship - Statistics II** (September 2020 - January 2021)
-  * University of Gronignen
+  * University of Groningnen
   * Taught $2^{nd}$ year BSc Psychology students statistics computer practicals in JASP. 
 
 
 * **Teaching Internship - Dialogue and Group Skills** (February - June 2019)
-  * University of Gronignen
+  * University of Groningnen
   * Planning lessons and teaching BSc Psychology students about basic communication skills and group dynamics.
   * Revised course syllabus with [**Dr. Stacey Donofrio**](https://www.rug.nl/staff/s.m.donofrio/){:target="_blank" rel="noopener"}
 
 * **Teaching Internship - Working with Psychology** (January - June 2019)
-  * University of Gronignen
+  * University of Groningen
   * Teaching BSc Psychology students career development skills.
 
 * **Teaching Internship - Communication and Diagnostic Skills** (September 2018 - January 2019)
-  * University of Gronignen
+  * University of Groningen
   * Teaching BSc Psychology students micro-counselling skills in role-played clinical interview setting.
 
 Data Analyst / Consultant Experience
