@@ -10,11 +10,12 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am pursuing a doctoral degree in clinical data science at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou.
+My name is Daniel Anadria and I am pursuing a doctoral degree in clinical natural language processing (NLP) at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou as part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium.
 
 My interests involve:
 
-- Natural Language Processing & Text Mining 📚⛏️
+- NLP & Text Mining 📚⛏️
+- Clinical Data Science
 - Algorithmic Fairness 🤖⚖️
 - Explainable AI 🔎🦾
 
