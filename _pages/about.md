@@ -10,7 +10,7 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am pursuing a doctoral degree in clinical natural language processing (NLP) at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou as part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium.
+My name is Daniel Anadria and I am pursuing a doctoral degree in natural language processing (NLP) at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou as part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium.
 
 My interests involve:
 
@@ -37,12 +37,12 @@ My interests involve:
 🔬 Research 
 ======
 
-My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on bias detection and mitigation in the context of natural language processing systems deployed in healthcare.
+My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on detection and mitigation of bias in clinical NLP systems.
 
 
 I am a member of:
 
-- [The Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
+- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
 - [Human Data Science](https://hds.sites.uu.nl/researchers/)
 - [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
 <!-- - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"} -->
