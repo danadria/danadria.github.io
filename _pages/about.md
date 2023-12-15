@@ -56,7 +56,7 @@ I am a member of:
 - The [preprint](https://psyarxiv.com/67zmt/) of my recent collaboration with Jelle Teijema is out! 🙌
 - Joined [Data Science: Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r) and [Data Science: Applied Text Mining](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining) summer school courses as a TA for the second year in a row
 - Joined the European Workshop for Algorithmic Fairness ([EWAF'23](https://sites.google.com/view/ewaf23/)) as a proceedings chair! 🪑
-- Defended MSc Thesis! 🎉
+
 <br>
 
 🤝 Want to get in touch?
