@@ -37,7 +37,7 @@ My interests involve:
 🔬 Research 
 ======
 
-My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on detection and mitigation of harmful bias in clinical NLP systems.
+My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on detection and mitigation of harmful biases in clinical NLP systems.
 
 
 I am a member of:
