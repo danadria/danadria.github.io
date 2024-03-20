@@ -10,16 +10,16 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am pursuing a doctoral degree in natural language processing (NLP) at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou as part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium.
+My name is Daniel Anadria and I am pursuing a doctoral degree in trustworthy natural language processing (NLP) at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou. My background is in methodology and statistics, applied data science, text mining, and research psychology. My project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
 
-My interests involve:
+
+My research interests involve:
 
 - NLP & Text Mining 📚⛏️
 - Clinical Data Science
-- Algorithmic Fairness 🤖⚖️
-- Explainable AI 🔎🦾
+- Trustworthy AI (esp. algorithmic fairness & explainablility)
 
-<!--I have a background in text mining, applied data science, methodology and statistics, and research psychology.  -->
+
 
 <!-- I mostly use: 
 
