@@ -10,7 +10,9 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a doctoral researcher in natural language processing (NLP) at Utrecht University. My background is in statistics, methodology and applied data science. My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology.
+My name is Daniel Anadria and I am a doctoral researcher in natural language processing (NLP) at Utrecht University with background in statistics, methodology and applied data science. 
+
+<!---My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology.-->
 
 
 My research interests involve:
