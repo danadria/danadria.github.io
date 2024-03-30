@@ -10,7 +10,7 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am pursuing a doctoral degree in trustworthy natural language processing (NLP) at Utrecht University under the supervision of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou. My background is in methodology and statistics, applied data science, text mining, and research psychology. My project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
+My name is Daniel Anadria and I am a doctoral researcher in natural language processing (NLP) at Utrecht University. My background is in statistics, methodology and applied data science. My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology.
 
 
 My research interests involve:
@@ -19,25 +19,14 @@ My research interests involve:
 - Clinical Data Science
 - Trustworthy AI (esp. algorithmic fairness & explainablility)
 
-
-
-<!-- I mostly use: 
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=LaTeX)&nbsp;-->
-
 <br>
 
 🔬 Research 
 ======
 
 My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on detection and mitigation of harmful biases in clinical NLP systems.
+
+My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
 
 
 I am a member of:
@@ -64,7 +53,7 @@ I am a member of:
 🤝 Want to get in touch?
 ======
 
-If we share interests, are interested in one of my past projects, or would like to consult me about your present work, feel free to [reach out!](mailto:danadria@uu.nl)
+If we share interests, you are interested in one of my past projects, or would like to collaborate or consult me about your present work, feel free to [reach out!](mailto:danadria@uu.nl) 
 
 
 <br><br>
