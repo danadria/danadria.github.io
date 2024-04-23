@@ -32,7 +32,7 @@ My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giach
 
 🗞️ What's new? 
 ======
-- Joined UMCU Julius Center's Data Science Group
+- Joined UMCU Julius Center - Data Science Group
 - Began an AI research internship at St. Antonius Hospital 🥼
 - Organizing the [Dutch Clinical NLP Workshop](https://clinicalnlp.nl/) - join us on June 24 2024 in Utrecht! 🇳🇱
 - A collaboration [article](https://doi.org/10.1080/10705511.2023.2250920) with Caspar van Lissa and Mauricio Garnier-Villarreal is published in Structural Equation Modeling: A Multidisciplinary Journal 🥳
