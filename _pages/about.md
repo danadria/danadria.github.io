@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Daniel Anadria and I am a doctoral researcher in trustworthy natural language processing at Utrecht University. My research aims to advance computational methodologies that can help ensure fairness, safety, and transparency of clinical NLP pipelines. With background in methodology, statistics, and applied data science, I propose approaches for detection and mitigation of harms with(in) clinical NLP systems.
 
-You might see me at:
+You might find me at:
 
 <br>
 ![affiliations](/images/affiliations.png)
