@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Daniel Anadria and I am a doctoral researcher in natural language processing (NLP) at Utrecht University with background in statistics, methodology and applied data science. 
 
-<!---My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology.-->
+My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology.
 
 
 My research interests involve:
@@ -33,12 +33,8 @@ My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:targe
 
 I am a member of:
 
-- [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"}
-- [Human Data Science](https://hds.sites.uu.nl/researchers/)
-- [Natural Language and Text Processing (NLTP) Lab](https://nlp.sites.uu.nl/){:target="_blank" rel="noopener"}
-<!-- - [Mice Team](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data){:target="_blank" rel="noopener"} -->
-
-
+<br>
+![affiliations](/images/affiliations.png)
 <br>
 
 🗞️ What's new? 
