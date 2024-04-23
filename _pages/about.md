@@ -10,26 +10,9 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a doctoral researcher in natural language processing (NLP) at Utrecht University with background in statistics, methodology and applied data science. 
+My name is Daniel Anadria and I am a doctoral researcher in natural language processing at Utrecht University.
 
-My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology.
-
-
-My research interests involve:
-
-- NLP & Text Mining 📚⛏️
-- Clinical Data Science
-- Trustworthy AI (esp. algorithmic fairness & explainablility)
-
-<br>
-
-🔬 Research 
-======
-
-My research explores ways to ensure that AI systems in healthcare uphold public values such as fairness and transparency. In particular, I focus on detection and mitigation of harmful biases in clinical NLP systems.
-
-My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
-
+My research develops novel methodologies that can help ensure fairness, safety, and transparency of clinical NLP pipelines. With background in methodology, statistics, and applied data science, I propose computational approaches to detect and mitigate harms with clinical NLP systems.
 
 I am a member of:
 
@@ -37,8 +20,21 @@ I am a member of:
 ![affiliations](/images/affiliations.png)
 <br>
 
+My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology. My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
+
+<br>
+
+
+<!-- My research interests involve:
+
+- Trustworthy AI (esp. algorithmic fairness & explainablility)
+- NLP & Text Mining 📚⛏️
+- Clinical Data Science -->
+
+
 🗞️ What's new? 
 ======
+- Joined UMCU Julius Center's Data Science Group
 - Began an AI research internship at St. Antonius Hospital 🥼
 - Organizing the [Dutch Clinical NLP Workshop](https://clinicalnlp.nl/) - join us on June 24 2024 in Utrecht! 🇳🇱
 - A collaboration [article](https://doi.org/10.1080/10705511.2023.2250920) with Caspar van Lissa and Mauricio Garnier-Villarreal is published in Structural Equation Modeling: A Multidisciplinary Journal 🥳
