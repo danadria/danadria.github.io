@@ -21,8 +21,6 @@ I'm curious and love learning new things. My academic background lies in data sc
 📍 Affiliations 
 ======
 
-You might find me at:
-
 <br>
 ![affiliations](/images/affiliations.png)
 <br>
