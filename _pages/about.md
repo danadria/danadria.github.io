@@ -10,7 +10,16 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a doctoral researcher in trustworthy natural language processing at Utrecht University. My research aims to advance computational methodologies that can help ensure fairness, safety, and transparency of clinical NLP pipelines. With background in methodology, statistics, and applied data science, I propose approaches for detection and mitigation of harms with(in) clinical NLP systems.
+My name is Daniel Anadria and I am a doctoral researcher in trustworthy artificial intelligence at Utrecht University and University Medical Center Utrecht. My work focuses on methodologies for the development, implementation, and assessment of data-driven decision support systems. I'm interested in methods to assess and ensure that AI systems exhibit desirable properties while maintaining fairness, safety, transparency, and conformance to regulations. My ongoing projects focus on clinical decision support systems within the healthcare domain.
+
+🎓 Academic Background  
+======
+
+I'm curious and love learning new things. My academic background lies in data science, statistics, and psychology. In my independent research projects, I have leveraged natural language processing for mental disorder prediction. I have applied and benchmarked several explainability techniques for transformers and conducted robustness checks. In my future projects, I am looking across disciplines to find solutions that work and enable succesful deployment of AI.
+
+
+📍 Affiliations 
+======
 
 You might find me at:
 
@@ -32,6 +41,7 @@ My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giach
 
 🗞️ What's new? 
 ======
+- Following a course on system safety and hazard analysis at TU Delft 
 - Joined UMCU Julius Center - Data Science Group
 - Began an AI research internship at St. Antonius Hospital 🥼
 - Organizing the [Dutch Clinical NLP Workshop](https://clinicalnlp.nl/) - join us on June 24 2024 in Utrecht! 🇳🇱
