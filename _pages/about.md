@@ -10,12 +10,12 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a doctoral researcher in trustworthy artificial intelligence at Utrecht University and University Medical Center Utrecht. My work focuses on methodologies for the development, implementation, and assessment of data-driven decision support systems. I'm interested in methods to assess and ensure that AI systems exhibit desirable properties while maintaining fairness, safety, transparency, and conformance to regulations. My ongoing projects focus on clinical decision support systems within the healthcare domain.
+My name is Daniel Anadria and I am a doctoral researcher in trustworthy artificial intelligence at Utrecht University and University Medical Center Utrecht. My work focuses on methodologies for the development, implementation, and assessment of statistical decision support systems. I'm interested in methods to assess and ensure that AI systems exhibit desirable properties while maintaining fairness, safety, transparency, and conformance to EU regulations. My ongoing projects focus on clinical decision support systems within the healthcare domain.
 
 🎓 Academic Background  
 ======
 
-I'm curious and love learning new things. My academic background lies in data science, statistics, and psychology. In my independent research projects, I have leveraged natural language processing for mental disorder prediction. I have applied and benchmarked several explainability techniques for transformers and conducted robustness checks. In my future projects, I am looking across disciplines to find solutions that work and enable succesful deployment of AI.
+I'm curious and love learning new things. By training, I am a data scientist and statistician. I also hold a psychology degree and have a background in natural language processing and explainable AI. I am solution-oriented and syncretist in my choice of methods. I often look over the disciplinary hedge to find solutions that work and enable succesful deployment of AI.
 
 
 📍 Affiliations 
@@ -25,7 +25,7 @@ I'm curious and love learning new things. My academic background lies in data sc
 ![affiliations](/images/affiliations.png)
 <br>
 
-My supervisory team consists of Prof. Dr. Daniel Oberski and Dr. Anastasia Giachanou of Utrecht University, and Dr.ir. Roel Dobbe of Delft University of Technology. My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
+My supervisory team consists of Prof. Dr. Daniel Oberski (Utrecht University), Dr.ir. Roel Dobbe (Delft University of Technology), and Dr. Anastasia Giachanou (Utrecht University). I am a also a member of Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht. My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
 
 <br>
 
