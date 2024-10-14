@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: archive
 title: "Posts"
 permalink: /posts/
+author_profile: true
+
 ---
 
 ...
