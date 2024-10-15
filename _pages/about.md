@@ -10,7 +10,7 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a doctoral researcher in trustworthy artificial intelligence at Utrecht University and University Medical Center Utrecht. My work focuses on methodologies for the development, implementation, and assessment of statistical decision support systems. I'm interested in methods to assess and ensure that AI systems exhibit desirable properties while maintaining fairness, safety, transparency, and conformance to EU regulations. My ongoing projects focus on clinical decision support systems within the healthcare domain.
+My name is Daniel Anadria and I am a doctoral researcher in trustworthy artificial intelligence at Utrecht University and University Medical Center Utrecht. My work focuses on methodologies for the development, implementation, and assessment of statistical decision support systems. I'm interested in methods to assess and ensure that AI systems exhibit desirable properties such as fairness, transparency, safety, and conformance to the EU and national regulations. My ongoing projects focus on clinical decision support systems within the healthcare domain.
 
 🎓 Academic Background  
 ======
