@@ -177,7 +177,7 @@ kramdown:
 collections:
   posts:
     output: true
-    permalink: /posts/:year/:month/:title/
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
