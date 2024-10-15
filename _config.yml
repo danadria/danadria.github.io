@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "AI Researcher"
   location         : "Netherlands 🇳🇱🇪🇺"
-  employer         : "Department of Methodology and Statistics, Utrecht University"
+# employer         : "Department of Methodology and Statistics, Utrecht University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E5wiCxMAAAAJ"
   email            : "danadria@uu.nl"
