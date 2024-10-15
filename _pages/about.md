@@ -15,7 +15,7 @@ My name is Daniel Anadria and I am a doctoral researcher in trustworthy artifici
 🎓 Academic Background  
 ======
 
-I am a data scientist and statistician. I also hold a psychology degree and have a background in natural language processing and explainable AI. I'm curious and love learning new things. In my choice of methods, I am solution-oriented and syncretist. I look over the disciplinary hedge to find solutions that work and enable succesful deployment of AI.
+I am a data scientist and statistician. I also hold a psychology degree and have worked with natural language processing and explainable AI methods. I'm curious and solution-oriented. I look over the disciplinary hedge to identify solutions that work and enable succesful deployment of AI in practice.
 
 
 📍 Affiliations 
