@@ -25,7 +25,7 @@ I am a data scientist and statistician. I also hold a psychology degree and have
 ![affiliations](/images/affiliations.png)
 <br>
 
-My supervisory team consists of Prof. Dr. Daniel Oberski (Utrecht University), Dr.ir. Roel Dobbe (Delft University of Technology), and Dr. Anastasia Giachanou (Utrecht University). I am a also a member of Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht. My PhD project is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
+My supervisory team consists of Prof. Dr. Daniel Oberski (Utrecht University), Dr.ir. Roel Dobbe (Delft University of Technology), and Dr. Anastasia Giachanou (Utrecht University). I am a also a member of Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht. My [PhD project](https://algosoc.org/research/methods-for-the-development-implementation-and-assessment-of-clinical-decision-support-systems) is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
 
 <br>
 
