@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   posts:
-    output: true
+    output: false
     permalink: /:collection/:path/
   teaching:
     output: true
