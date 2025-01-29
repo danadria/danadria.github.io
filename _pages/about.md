@@ -10,22 +10,22 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a doctoral researcher in trustworthy artificial intelligence at Utrecht University and University Medical Center Utrecht. My work focuses on methodologies for the development, implementation, and assessment of automated decision support systems. I'm interested in ways to evaluate and ensure that AI systems exhibit desirable properties such as fairness, transparency, safety, and conformance to the EU and national regulations. My focus is on computational models used within clinical decision support systems. I want to contribute to answering - How can AI be integrated in ways that are responsible and safe? 
+My name is Daniel Anadria and I am a computational statistician interested in socio-technical approaches to responsible AI system development. I am a doctoral researcher at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at Delft University of Technology (fac. Technology Policy and Management) and University Medical Center Utrecht (Julius Center).
 
-🎓 Academic Background  
+
+My work combines computational modeling and socio-technical system mapping with the aim of guiding the responsible development, implementation, and maintenance of data-driven clinical decision support systems. I'm interested in ways to evaluate and ensure that AI systems exhibit desirable properties such as fairness, transparency, safety, whilst conforming to the regulations of the European single market in their operations. I draw insights from my education and experiences in the domains of statistics, applied data science, natural language processing, and psychology. I believe that safe AI systems require purposeful engineering cognizant of the broader societal context.
+
+
+🌱 Inspiration 
 ======
 
-I am a data scientist and statistician. I also hold a psychology degree and have worked with natural language processing and explainable AI methods. I'm curious and solution-oriented. I look over the disciplinary hedge to identify solutions that enable succesful deployment of AI systems.
-
-
-📍 Affiliations 
-======
-
-<br>
+<!-- <br>
 ![affiliations](/images/affiliations.png)
-<br>
+<br> -->
 
-My supervisory team consists of Prof. Dr. Daniel Oberski (Utrecht University), Dr.ir. Roel Dobbe (Delft University of Technology), and Dr. Anastasia Giachanou (Utrecht University). I am a also a member of Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht. My [PhD project](https://algosoc.org/research/methods-for-the-development-implementation-and-assessment-of-clinical-decision-support-systems) is part of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium. 
+As a PhD candidate, I am incredibly fortunate to be able to learn and draw insights from a multitude of inspiring researchers. First and foremost, there's my supervision team which consists of Prof. Dr. Daniel Oberski (Human Data Science lab), Dr.ir. Roel Dobbe (Sociotechnial AI Systems lab), and Dr. Anastasia Giachanou (Natural Language and Text Processing lab). In addition, a lot of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht, as well as to members of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium which are a great inspiration.
+
+ <!-- [PhD project](https://algosoc.org/research/methods-for-the-development-implementation-and-assessment-of-clinical-decision-support-systems) is part of the  -->
 
 <br>
 
