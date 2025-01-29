@@ -23,7 +23,7 @@ My work combines computational modeling and socio-technical system mapping with 
 ![affiliations](/images/affiliations.png)
 <br> -->
 
-As a PhD candidate, I am incredibly fortunate to be able to learn and draw insights from a multitude of inspiring researchers. First and foremost, there's my supervision team which consists of Prof. Dr. Daniel Oberski (Human Data Science lab), Dr.ir. Roel Dobbe (Sociotechnial AI Systems lab), and Dr. Anastasia Giachanou (Natural Language and Text Processing lab). In addition, a lot of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht, as well as to members of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium which are a great inspiration.
+As a PhD candidate, I am incredibly fortunate to be able to learn and draw insights from a multitude of inspiring researchers. First and foremost, there's my supervision team which consists of Prof. Dr. Daniel Oberski (Human Data Science lab), Dr.ir. Roel Dobbe (Sociotechnical AI Systems lab), and Dr. Anastasia Giachanou (Natural Language and Text Processing lab). In addition, a lot of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht, as well as to members of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium which are a great inspiration.
 
  <!-- [PhD project](https://algosoc.org/research/methods-for-the-development-implementation-and-assessment-of-clinical-decision-support-systems) is part of the  -->
 
