@@ -15,6 +15,8 @@ My name is Daniel Anadria and I am a computational statistician interested in so
 
 My work combines computational modeling and socio-technical system mapping with the aim of guiding the responsible development, implementation, and maintenance of data-driven clinical decision support systems. I'm interested in ways to evaluate and ensure that AI systems exhibit desirable properties such as fairness, transparency, safety, whilst conforming to the regulations of the European single market in their operations. I draw insights from my education and experiences in the domains of statistics, applied data science, natural language processing, and psychology. I believe that safe AI systems require purposeful engineering cognizant of the broader societal context.
 
+<br>
+
 
 🌱 Inspiration 
 ======
@@ -56,7 +58,7 @@ As a PhD candidate, I am incredibly fortunate to be able to learn and draw insig
 If we share interests, you are interested in one of my past projects, or would like to collaborate or consult me about your present work, feel free to [reach out!](mailto:danadria@uu.nl) 
 
 
-<br><br>
+<br>
 ![logos](/images/logos.png)
 
 
