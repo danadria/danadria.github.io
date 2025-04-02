@@ -13,7 +13,7 @@ redirect_from:
 My name is Daniel Anadria and I am a computational statistician interested in socio-technical approaches to responsible AI system development. I am a doctoral researcher at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at Delft University of Technology (fac. Technology Policy and Management) and University Medical Center Utrecht (Julius Center).
 
 
-My work combines computational methods and system-theoretic approaches with the aim of guiding the responsible development, implementation, and maintenance of clinical AI systems. I'm interested in the design and testing of evaluation and control methods for ensuring that data-driven AI systems exhibit human-centric values in their operations, incuding safety, transparency, and as fairness. I draw insights from a wide array of disciplines and attempt to make my work relevant to a diverse set of real-world stakeholders. My work is informed by the legal requirements of the European single market. I draw inspiration from my education and experiences in the domains of methodology and statistics, applied data science, natural language processing, and psychology. I believe that safe AI systems require purposeful design.
+My work combines computational modeling and system-theoretic methods with the aim of guiding the responsible development, implementation, and maintenance of clinical AI systems. I'm interested in the design and testing of evaluation and control methods for ensuring that data-driven AI systems exhibit human-centric values in their operations, incuding safety, transparency, and as fairness. I draw insights from a wide array of disciplines and attempt to make my work relevant to a diverse set of real-world stakeholders. My work is informed by the legal requirements of the European single market. I draw inspiration from my education and experiences in the domains of methodology and statistics, applied data science, natural language processing, and psychology. I believe that safe AI systems require purposeful design.
 
 <br>
 
@@ -41,6 +41,7 @@ As a PhD researcher, I am incredibly fortunate to have the opportunity to learn 
 
 🗞️ What's new? 
 ======
+- Gave a talk at UMCU AI Methods on "Data Quality Control for Clinical Decision-Support Systems"
 - Completed the St. Antonius Hospital internship
 - Finished a master's level course on system safety for for AI system at TU Delft 
 - Joined UMCU Julius Center - Data Science Group
