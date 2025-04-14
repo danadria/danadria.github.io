@@ -1,6 +1,6 @@
 ---
 title: 'Governance Structure Diagram for Clinical Decision Support Systems Operating within the European Single Market Area'
-excerpt: 'Recently I mapped the governance structure for decision support systems operating in the European single market.'
+excerpt: 'Recently I mapped the governance structure for decision support systems operating in the European single market. Here are my findings.'
 collection: posts
 date: 2025-04-14
 permalink: /posts/2025/04/14/governance_structure/
