@@ -24,7 +24,7 @@ From the perspective of CDSS providers and manufacturers, CDSSs have to demonstr
 
 From the perspective of notified bodies, the EU and national laws tend to be ambiguous. Legal language is subject to later legal interpretation. This means that there is a gap between the legal objectives and their technical operationalizations. In the European Single Market, this gap is often bridged via harmonized standards. These documents, formulated by standardization organizations, specify the minimum consensus regarding the acceptable technical methods to demonstrate conformance of a product. Notified bodies use harmonized standards to assess and certify CDSSs. Interestingly, it is not mandatory in the EU nor in the US for a product to comply with harmonized standards. Instead, harmonized standards serve as a heuristic for system providers and lawyers who would otherwise have to demonstrate system compliance in a more tedious way. A downside of harmonized standards, however, is that they are often in line with the minimum technical consensus that typically falls short of the scientific state-of-the-art. Once a harmonized standard is formulated, the European Commission publishes a reference to this standard in the Official Journal of the European Union. Harmonized standards enable standardized functioning of systems operating within the European Single Market.
 
-Got questions or comments? [Reach out!](mailto:danadria@uu.nl) 
+Got questions or comments? [Reach out!](mailto:danadria@pm.me) 
 
 
 

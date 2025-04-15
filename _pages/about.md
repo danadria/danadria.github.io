@@ -57,7 +57,7 @@ As a PhD researcher, I am incredibly fortunate to have the opportunity to learn 
 🤝 Want to get in touch?
 ======
 
-If we share interests, you are interested in one of my past projects, or would like to collaborate or consult me about your present work, feel free to [reach out!](mailto:danadria@uu.nl) 
+If we share interests, you are interested in one of my past projects, or would like to collaborate or consult me about your present work, feel free to [reach out!](mailto:danadria@pm.me) 
 
 
 <br>
