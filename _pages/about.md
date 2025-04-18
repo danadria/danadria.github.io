@@ -10,10 +10,10 @@ redirect_from:
 👋 Hi!  
 ======
 
-My name is Daniel Anadria and I am a computational statistician interested in socio-technical approaches to responsible AI system development. I am a doctoral researcher at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at Delft University of Technology (fac. Technology Policy and Management) and University Medical Center Utrecht (Julius Center).
+My name is Daniel Anadria and I am a computational statistician interested in system-theoretic approaches to responsible AI automation. I am a doctoral researcher at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at Delft University of Technology (fac. Technology Policy and Management) and University Medical Center Utrecht (Julius Center).
 
 
-My work combines computational modeling and system-theoretic methods with the aim of guiding the responsible development, implementation, and maintenance of clinical AI systems. I'm interested in the design and testing of evaluation and control methods for ensuring that data-driven AI systems exhibit human-centric values in their operations, incuding safety, transparency, and as fairness. I draw insights from a wide array of disciplines and attempt to make my work relevant to a diverse set of real-world stakeholders. My work is informed by the legal requirements of the European single market. I draw inspiration from my education and experiences in the domains of methodology and statistics, applied data science, natural language processing, and psychology. I believe that safe AI systems require purposeful design.
+My work combines computational modeling and system-theoretic methods with the aim of guiding the responsible development, implementation, and maintenance of clinical AI systems. I'm interested in the design and testing of evaluation and control methods for ensuring that data-analytic AI systems exhibit human-centric values in their operational environments. As someone driven by real-world impact, I engage with diverse scientific disciplines and stakeholder perspectives. My work is informed by the needs of the European single market. It incorporates insights from my education and experiences in domains of methodology and statistics, applied data science, natural language processing, and psychology. I believe that, in order to deliver on its promise, AI automation requires purposeful design.
 
 <br>
 
@@ -25,7 +25,7 @@ My work combines computational modeling and system-theoretic methods with the ai
 ![affiliations](/images/affiliations.png)
 <br> -->
 
-As a PhD researcher, I am incredibly fortunate to have the opportunity to learn and draw insights from a multitude of inspiring researchers. First and foremost, there's my supervisory team which consists of Prof. Dr. Daniel Oberski (Human Data Science lab), Dr.ir. Roel Dobbe (Sociotechnical AI Systems lab), and Dr. Anastasia Giachanou (Natural Language and Text Processing lab). In addition, much of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht, as well as to members of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium which are a great inspiration.
+In my PhD, I am incredibly fortunate to have the opportunity to learn and draw insights from a multitude of inspiring researchers. First and foremost, there's my supervisory team which consists of Prof. Dr. Daniel Oberski (Human Data Science lab), Dr.ir. Roel Dobbe (Sociotechnical AI Systems lab), and Dr. Anastasia Giachanou (Natural Language and Text Processing lab). In addition, much of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht, as well as to members of the [Algorithmic Society](https://algosoc.org/){:target="_blank" rel="noopener"} consortium which are a great inspiration.
 
  <!-- [PhD project](https://algosoc.org/research/methods-for-the-development-implementation-and-assessment-of-clinical-decision-support-systems) is part of the  -->
 
