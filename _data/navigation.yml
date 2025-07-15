@@ -5,8 +5,8 @@ main:
     url: /about/
     
   - title: "Posts"
-    url: /posts/
-
+    url: "https://danadria.substack.com/"
+    external: true
   - title: "CV"
     url: /cv/
     
