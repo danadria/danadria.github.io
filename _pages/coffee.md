@@ -5,9 +5,6 @@ excerpt: "Coffee"
 author_profile: true
 ---
 
-☕️ Want to buy me a coffee?  
-======
-
 <div style="text-align: center;">
 <img src="/images/random_walk_title.png" alt="random_walk">
 </div>
@@ -15,6 +12,8 @@ author_profile: true
 
 <br>
 
+☕️ Want to buy me a coffee?  
+======
 
 Random Walk is offered to everyone free of charge and enabled by copious amounts of coffee. If you enjoy my writing and want to keep the coffee flowing, you can treat me a cup! ☕️
 
