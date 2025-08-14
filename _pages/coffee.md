@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-<img src="/images/random_walk.png" alt="random_walk">
+<img src="/images/random_walk_title.png" alt="random_walk">
 </div>
 
 
