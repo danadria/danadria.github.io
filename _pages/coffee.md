@@ -21,9 +21,9 @@ Random Walk is offered to everyone free of charge and enabled by copious amounts
 <div style="margin: 20px auto; padding: 20px; width: 60%; border: 1px solid #ccc; text-align: center;">
   <strong>Donations</strong><br><br>
 
-  Name: D Anadria<br>
-  IBAN: NL53 INGB 0677 3303 75<br>
-  BIC/SWIFT: INGBNL2A<br>
+  Beneficiary: Daniel Anadria<br>
+  IBAN: NL75 REVO 3678 9202 76<br>
+  BIC/SWIFT: REVONL22<br>
   Description: coffee
 </div>
 
