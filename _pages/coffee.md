@@ -1,9 +1,12 @@
 ---
 permalink: /coffee
 title: ""
-excerpt: "Random Walk - Coffee"
+excerpt: "Coffee"
 author_profile: true
 ---
+
+☕️ Want to buy me a coffee?  
+======
 
 <div style="text-align: center;">
 <img src="/images/random_walk_title.png" alt="random_walk">
@@ -12,10 +15,8 @@ author_profile: true
 
 <br>
 
-☕️ Want to buy me a coffee?  
-======
 
-My work on Random Walk is offered to everyone free of charge and enabled by copious amounts of coffee. If you enjoy my writing and want to keep the coffee flowing, you can treat me a cup! ☕️
+Random Walk is offered to everyone free of charge and enabled by copious amounts of coffee. If you enjoy my writing and want to keep the coffee flowing, you can treat me a cup! ☕️
 
   
 <div style="margin: 20px auto; padding: 20px; width: 60%; border: 1px solid #ccc; text-align: center;">
