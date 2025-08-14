@@ -17,20 +17,25 @@ author_profile: true
 
 My work on Random Walk is offered to everyone free of charge and enabled by copious amounts of coffee. If you enjoy my writing and want to keep the coffee flowing, you can treat me a cup! ☕️
 
-  Name: D Anadria
+  
+<div style="margin: 20px auto; padding: 20px; width: 60%; border: 1px solid #ccc; text-align: center;">
+  <strong> **Donations**
+    </strong><br>
 
-  IBAN: NL53 INGB 0677 3303 75
+  **Name: D Anadria**
 
-  BIC/SWIFT: INGBNL2A
+  **IBAN: NL53 INGB 0677 3303 75**
 
-  Description: coffee
+  **BIC/SWIFT: INGBNL2A**
 
-Thank you for your support! Feel free to [say hi!](mailto:danadria@pm.me) 
+  **Description: coffee**
+  </div>
 
+Thank you for your support!
 
-
+<div style="text-align: center;">
 <iframe src="https://danadria.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
+</div>
 
 
 
