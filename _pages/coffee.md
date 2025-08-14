@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-![logos](/images/random_walk.png)
-
+![cat](/images/random_walk.png)
 </div>
 <br>
 
