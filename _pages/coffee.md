@@ -23,13 +23,13 @@ Random Walk is offered to everyone free of charge and enabled by copious amounts
   <strong> **Donations**
     </strong><br>
 
-  **Name: D Anadria**
+  Name: D Anadria<br>
 
-  **IBAN: NL53 INGB 0677 3303 75**
+  IBAN: NL53 INGB 0677 3303 75<br>
 
-  **BIC/SWIFT: INGBNL2A**
+  BIC/SWIFT: INGBNL2A<br>
 
-  **Description: coffee**
+  Description: coffee<br>
   </div>
 
 Thank you for your support!
