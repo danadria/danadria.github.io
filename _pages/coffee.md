@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-![cat](/images/random_walk.png)
+<img src="/images/random_walk.png" alt="random_walk">
 </div>
+
+
 <br>
 
 ☕️ Want to buy me a coffee?  
@@ -26,9 +28,9 @@ My work on Random Walk is offered to everyone free of charge and enabled by copi
 Thank you for your support! Feel free to [say hi!](mailto:danadria@pm.me) 
 
 
-<div style="text-align: center;">
+
 <iframe src="https://danadria.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
+
 
 
 
