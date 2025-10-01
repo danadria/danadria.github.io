@@ -56,6 +56,9 @@ I am incredibly fortunate to have the opportunity to learn and draw insights fro
 
 If we share interests, you are interested in one of my past projects, or would like to collaborate or consult me about your present work, feel free to [reach out!](mailto:danadria@pm.me) 
 
+
+<iframe src="https://danadria.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 <div class="footer-logos" style="text-align: center; margin-top: 1rem;">
   <img src="/images/logos.png" alt="logos" style="max-width: 100%; height: auto;">
 </div>
