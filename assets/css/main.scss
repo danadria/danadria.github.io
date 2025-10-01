@@ -12,6 +12,10 @@
 
 // Import Atkinson Hyperlegible font
 $global-font-family: 'Atkinson Hyperlegible', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+body, h1, h2, h3, h4, h5, h6, nav, .sidebar, .site-header, .site-footer {
+  font-family: 'Atkinson Hyperlegible', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
 
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
