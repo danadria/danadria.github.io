@@ -5,7 +5,10 @@ author_profile: true
 
 ---
 
-🗞️ What's new? 
+- Currently instructing parts of Data Wrangling and Data Analysis, an Applied Data Science master's course at Utrecht University
+- Starting an AI internship in a mental health clinic
+
+Old News
 ======
 
 - Gave a talk at UMCU AI Methods on "Data Quality Control for Clinical Decision-Support Systems"
