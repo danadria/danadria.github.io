@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Curriculum Vitae"
 excerpt: "Daniel Anadria CV / Resume"
@@ -155,3 +155,4 @@ Software
 
 
 
+ -->
