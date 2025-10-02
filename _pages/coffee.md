@@ -24,7 +24,7 @@ Random Walk is offered to everyone free of charge and enabled by copious amounts
   Beneficiary: Daniel Anadria<br>
   IBAN: NL75 REVO 3678 9202 76<br>
   BIC/SWIFT: REVONL22<br>
-  Description: coffee
+  Description: 'random cup'
 </div>
 
 
