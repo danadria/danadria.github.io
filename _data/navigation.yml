@@ -7,9 +7,6 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "Posts"
-    url: "https://danadria.substack.com/"
-    external: true
 
 #  - title: "CV"
 #    url: /cv/
@@ -17,6 +14,10 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Random Walk"
+    url: "https://danadria.substack.com/"
+    external: true
+    
 # - title: "Talks"
 #   url: /talks/    
    
