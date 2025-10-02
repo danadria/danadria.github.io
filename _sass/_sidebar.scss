@@ -82,9 +82,9 @@ h3, h4, p, li {
     text-align: left;
   }
 
-img {
- max-width: 175px;
-  /*  border-radius: 50%; */
+  img {
+    max-width: 175px;
+    /*  border-radius: 50%; */
 
     @include breakpoint($large) {
       padding: 5px;
