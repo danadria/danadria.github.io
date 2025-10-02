@@ -12,7 +12,7 @@ redirect_from:
 About 
 ======
 
-My name is Daniel Anadria. I am an AI scientist with a background in computational statistics working on responsble AI systems in patient care. I hold a doctoral researcher position at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and Delft University of Technology (fac. Technology Policy and Management).
+My name is Daniel Anadria. I am an AI scientist with a background in computational statistics working on responsible automation of clinical decision-support. I hold a doctoral researcher position at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and Delft University of Technology (fac. Technology Policy and Management).
 
 
 My work combines data science and system-theoretic methods with the aim of guiding the responsible development, implementation, and maintenance of clinical decision-support systems in patient care. The primary aim of my work is to ensure that data-driven systems exhibit human-centric values in their operations.
