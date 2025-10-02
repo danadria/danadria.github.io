@@ -9,8 +9,11 @@ redirect_from:
   - /cv/
   - /resume
 ---
+
+<div style="text-align: center;">
 About 
 ======
+</div>
 
 <div style="text-align: justify;">
 
@@ -23,9 +26,10 @@ My research contributes to responsible AI in healthcare, primarly focusing on cl
 
 <br>
 
-
+<div style="text-align: center;">
 Inspiration
 ======
+</div>
 
 <div style="text-align: justify;">
 I am fortunate to have the opportunity to learn and draw insights from a multitude of inspiring researchers. This includes my supervisory team which consists of Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems lab), and Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing lab). In addition, much of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science group at the University Medical Center Utrecht, as well as to members of the Algorithmic Society consortium.
@@ -37,9 +41,11 @@ I am fortunate to have the opportunity to learn and draw insights from a multitu
 
 <br>
 
-
+<div style="text-align: center;">
 Connect
 ======
+</div>
+
 <div style="text-align: justify;">
 
 If you're interested in one of my projects, would like to chat about AI systems in healthcare, collaborate, or consult me about your present work, feel free to reach out!
