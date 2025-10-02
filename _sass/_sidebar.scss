@@ -236,3 +236,18 @@ img {
     }
   }
 }
+
+
+<div id="substack_embed">
+  <script>
+    window.SubstackFeedWidget = {
+      substackUrl: "danadria.substack.com",
+      theme: "custom",
+      colors: {
+        primary: "#000",
+        background: "#fff"
+      }
+    };
+  </script>
+  <script src="https://substackapi.com/embeds/feed.js" async></script>
+</div>
