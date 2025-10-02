@@ -52,6 +52,7 @@ If you're interested in one of my projects, would like to chat about AI systems 
 <br>
 If you want to follow my adventures, I've recently started Random Walk, a blog about AI systems, patient care, research, deployment, and much more. You can sign up to my mailing list here to stay up to date:
 </div>
+<br>
 
 <div style="text-align: center;">
 <iframe src="https://danadria.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
