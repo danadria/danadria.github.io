@@ -1,9 +1,9 @@
-<div class="page__footer-follow" style="text-align: center; padding: 0.5px 0;">
-  <ul class="social-icons" style="display: inline-flex; justify-content: center; padding: 0; margin: 0; list-style: none;">
-    {% if site.footer.links %}.page__footer-follow
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li style="margin: 0 5px;">
+          <li>
             <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
               <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
             </a>
@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright" style="text-align: center; padding: 0.5px 0; margin: 0; font-size: 0.9em;">
+<div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
   {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
   <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
