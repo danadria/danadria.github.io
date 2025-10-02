@@ -24,16 +24,16 @@
   }
 }
 
-  .page__inner-wrap {
-    @include full();
+.page__inner-wrap {
+  @include full();
 
-    .page__content,
-    .page__meta,
-    .page__share {
-      @include full();
-    }
+  .page__content,
+  .page__meta,
+  .page__share {
+    @include full();
   }
 }
+
 
 .page__title {
   margin-top: 0;
