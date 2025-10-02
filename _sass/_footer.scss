@@ -4,37 +4,15 @@
 
 .page__footer {
   @include clearfix;
- // float: left;
-  margin-left: 0;
-  margin-right: 0;
+  margin: 1.5em 0 0 0;   // top margin for spacing, no bottom margin
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
-  // position: absolute;
-  // bottom: 0em;
   height: auto;
-  /* sticky footer fix end */
-  margin-top: 3em;
-  // color: mix(#fff, $gray, 25%);
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
-  background-color: $background-color;
-  // border-top: 1px solid $white;
+  background-color: $background-color;  // match page background
+  text-align: center;                   // center all text inside footer
 
-  footer {
-    @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2em;
-    max-width: 100%;
-    padding: 0 1em 2em;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-  }
+  // Remove any border or lines
+  border-top: none;
 
   a {
     color: inherit;
@@ -45,6 +23,7 @@
     }
   }
 
+  // Icon colors (optional if you use icons in footer)
   .fas,
   .fab,
   .far,
@@ -56,37 +35,6 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-}
-
-.page__footer-follow {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
-
-  li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
-  }
-
-  a {
-    padding-right: 10px;
-    font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
+  margin: 0;  // reset any default margin
+  padding: 0; // reset any default padding
 }
