@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniel Anadria - AI Scientist"
+title                    : "Daniel Anadria (AI Scientist)"
 title_separator          : "|"
 name                     : &name "Daniel Anadria"
 description              : &description "The Official Homepage of Daniel Anadria"
