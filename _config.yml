@@ -70,8 +70,8 @@ social:
   name                   : Daniel Anadria
   links: 
       - label: "Substack"
-      icon: "fas fa-rss"s
-      url: "https://danadria.substack.com"
+        icon: "fas fa-rss"
+        url: "https://danadria.substack.com"
   
 
 
