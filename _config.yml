@@ -7,9 +7,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniel Anadria (AI Scientist)"
+title                    : "Daniel Anadria"
 title_separator          : "|"
-name                     : &name "Daniel Anadria"
+name                     : &name "Daniel Anadria - AI Scientist"
 description              : &description "The Official Homepage of Daniel Anadria"
 url                      : https://danadria.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
