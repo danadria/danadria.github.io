@@ -48,3 +48,11 @@ body, h1, h2, h3, h4, h5, h6, nav, .sidebar, .site-header, .site-footer {
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+body {
+  background-image: url('/assets/bg/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
