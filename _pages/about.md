@@ -32,7 +32,7 @@ Inspiration
 
 
 <div style="text-align: justify;">
-I am fortunate to be standing on the sholders of giants. Great thinkers, including Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems lab), Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing lab), Dr. Maarten van Smeden and the members of his Methods for AI and Data Science groups at the University Medical Center Utrecht, and the members of the Algorithmic Society consortium all profoundly shape my thought. 
+I am fortunate to be standing on the sholders of giants. Great thinkers, including Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems lab), Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing lab), Dr. Maarten van Smeden and the members of his Methods for AI and Data Science groups at the University Medical Center Utrecht, as well as the members of the Algorithmic Society consortium all profoundly shape my thought. 
 
 
 
@@ -51,7 +51,7 @@ Reach Out
 
 <div style="text-align: justify;">
 
-If you want to learn more about AI systems in healtcare, chat about one of my projects, collaborate, or consult me about your present work, feel free to reach out. My tent is always open!
+If you want to learn more about AI systems in healtcare, chat about one of my projects, collaborate, or consult me about your present work, feel free to reach out! My tent is open.
 
 <br>
 <br>
