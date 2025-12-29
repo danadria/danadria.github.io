@@ -130,7 +130,7 @@ Reach Out
 
 <div style="text-align: justify;">
 
-If you want to learn more about AI systems in healtcare, consult me about your present work, or collaborate on a project with me, feel free to reach out! My tent is open.
+If you want to learn more about AI systems in healtcare, consult me about your present work, or collaborate on a project with me, feel free to reach out! I will strive to help where I can or point you to another expert in my network. My tent is open.
 
 <br>
 <br>
