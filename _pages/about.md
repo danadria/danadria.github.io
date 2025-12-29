@@ -55,7 +55,7 @@ If you want to learn more about AI systems in healtcare, chat about one of my pr
 
 <br>
 <br>
-If you want to follow my adventures, I've recently started Random Walk, a blog about AI systems, patient care, research, deployment, and much more. You can sign up to my mailing list in the form below to stay up to date.
+If you wish to follow my adventures, I've recently started Random Walk, a blog about AI systems, patient care, research, deployment, and much more. You can sign up to my mailing list in the form below to stay up to date.
 </div>
 <br>
 
