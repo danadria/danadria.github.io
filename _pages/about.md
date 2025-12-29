@@ -21,7 +21,7 @@ About
 I am an AI scientist with a background in computational statistics and psychology. I hold a doctoral researcher position at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and Delft University of Technology (fac. Technology Policy and Management).
 <br>
 <br>
-My research contributes to responsible AI in healthcare, primarly focusing on clinical decision-support systems in patient care. My approach combines data science with systems-theoretic methods to inform the development, implementation, and maintenance of clinical decision-support systems. The primary aim of my work is to ensure that data-driven systems exhibit human-centric values in their operations and align with needs of multiple stakeholders.
+My research contributes to responsible artificial intelligence in healthcare, primarly focusing on the design, development, deployment, and monitoring of clinical decision-support systems. My work combines data science and systems-theoretic methods with the aim of ensuring that data-driven algorithms exhibit human-centric values in their operations and align with needs of patients, doctors, hospital administrators, and other relevant stakeholders.
 
 </div>
 
@@ -32,7 +32,10 @@ Inspiration
 
 
 <div style="text-align: justify;">
-I am fortunate to have the opportunity to learn and draw insights from a multitude of inspiring researchers. This includes my supervisory team which consists of Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems lab), and Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing lab). In addition, much of my learning can be attributed to Dr. Maarten van Smeden's Methods for AI and Data Science groups at the University Medical Center Utrecht, as well as to members of the Algorithmic Society consortium.
+I am fortunate to be standing on the sholders of giants. Great thinkers, including Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems lab), Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing lab), Dr. Maarten van Smeden and the members of his Methods for AI and Data Science groups at the University Medical Center Utrecht, and the members of the Algorithmic Society consortium all profoundly shape my thought. 
+
+
+
 </div>
 
 <!-- <br>
@@ -42,16 +45,17 @@ I am fortunate to have the opportunity to learn and draw insights from a multitu
 <br>
 
 
-Connect
+Reach Out
 ======
 
 
 <div style="text-align: justify;">
 
-If you're interested in one of my projects, would like to chat about AI systems in healthcare, collaborate, or consult me about your present work, feel free to reach out!
+If you want to learn more about AI systems in healtcare, chat about one of my projects, collaborate, or consult me about your present work, feel free to reach out. My tent is always open!
+
 <br>
 <br>
-If you want to follow my adventures, I've recently started Random Walk, a blog about AI systems, patient care, research, deployment, and much more. You can sign up to my mailing list here to stay up to date:
+If you want to follow my adventures, I've recently started Random Walk, a blog about AI systems, patient care, research, deployment, and much more. You can sign up to my mailing list in the form below to stay up to date.
 </div>
 <br>
 
