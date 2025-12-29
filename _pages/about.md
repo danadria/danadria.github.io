@@ -100,7 +100,7 @@ About
 I am an AI scientist with a background in computational statistics and psychology. I hold a doctoral researcher position at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and Delft University of Technology (fac. Technology Policy and Management).
 <br>
 <br>
-My research contributes to responsible artificial intelligence in healthcare, primarly focusing on the design, development, deployment, and monitoring of clinical decision-support systems. My work combines data science and systems-theoretic methods with the aim of ensuring that data-driven algorithms exhibit human-centric values in their operations and align with needs of patients, doctors, hospital administrators, and other relevant stakeholders.
+My research contributes to responsible artificial intelligence in healthcare, primarly focusing on the design, development, implementation, and monitoring of clinical decision-support systems. My work combines data science and systems-theoretic methods with the aim of ensuring that data-driven algorithms exhibit human-centric values in their operations and align with needs of patients, doctors, hospital administrators, and other relevant stakeholders.
 
 </div>
 
