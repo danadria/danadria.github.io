@@ -97,7 +97,11 @@ About
 <!-- キーワード: 人工知能、医学、システム科学、AIシステム導入、法的要件、機械学習、統計学、モデルアーキテクチャ選定 -->
 
 
-I am an AI scientist with a background in computational statistics and psychology. I hold a doctoral researcher position at Utrecht University (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and Delft University of Technology (fac. Technology Policy and Management).
+I am an AI scientist with a background in computational statistics and psychology. I hold a doctoral researcher position at 
+<a href="https://www.uu.nl/staff/DAnadria" target="_blank" rel="noopener noreferrer" class="inline-link">Utrecht University</a> (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and <a href="https://www.tudelft.nl/en/staff/d.anadria/" target="_blank" rel="noopener noreferrer" class="inline-link">Delft University of Technology</a>  (fac. Technology Policy and Management).
+
+
+
 <br>
 <br>
 My research contributes to responsible artificial intelligence in healthcare, primarly focusing on the design, development, implementation, and monitoring of clinical decision-support systems. My work combines data science and systems-theoretic methods with the aim of ensuring that data-driven algorithms exhibit human-centric values in their operations and align with needs of patients, doctors, hospital administrators, and other relevant stakeholders.
@@ -120,6 +124,8 @@ I am fortunate to be standing on the sholders of giants. Great thinkers, includi
 <!-- <br>
 ![affiliations](/images/affiliations.png)
 <br> -->
+
+<!-- https://www.tudelft.nl/en/staff/d.anadria/ -->
 
 <br>
 
