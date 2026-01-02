@@ -19,6 +19,22 @@ layout: compress
 <!--end of testing-->
     
   </head>
+  
+  <script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("a[href]").forEach(function (link) {
+    if (
+      !link.href.startsWith("mailto:") &&
+      !link.href.startsWith("tel:") &&
+      !link.hasAttribute("target")
+    ) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+});
+</script>
+
 
   <body>
 
