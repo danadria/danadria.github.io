@@ -6,34 +6,25 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-    
-<!--    Grid around elements-->
-<!--    <style>
-  * {
-    outline: 1px solid rgba(255, 0, 0, 0.3);
-  }
-</style>-->
-<!--end of testing-->
-    
-  </head>
+
   
-  <script>
-document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll("a[href]").forEach(function (link) {
-    if (
-      !link.href.startsWith("mailto:") &&
-      !link.href.startsWith("tel:") &&
-      !link.hasAttribute("target")
-    ) {
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+
+  <style>
+    a,
+    a:visited {
+      color: inherit !important;
+      text-decoration: none !important;
     }
-  });
-});
-</script>
+
+    a:hover,
+    a:focus {
+      text-decoration: underline;
+    }
+  </style>
+</head>
 
 
   <body>
