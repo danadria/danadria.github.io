@@ -19,12 +19,14 @@ About
 
 <!-- My name is Daniel Anadria.  -->
 <!-- Daniel Anadria, Dutch AI Scientist  -->
+<!-- Daniel Anadria, Dutch AI Researcher  -->
 <!-- Daniel Anadria, Dutch AI Automation Scientist  -->
 <!-- Daniel Anadria, Dutch AI Expert  -->
 <!-- keywords: aritificial intelligence, medicine, systems science, AI system deployment, legal requirements, machine learning, statistics, model architecture selection   -->
 
 <!-- Mijn naam is Daniel Anadria.  -->
 <!-- Daniel Anadria, Nederlandse AI-wetenschapper  -->
+<!-- Daniel Anadria, Nederlandse AI-onderzoeker  -->
 <!-- Daniel Anadria, Nederlandse AI-automatiseringswetenschapper  -->
 <!-- Daniel Anadria, Nederlandse AI-expert  -->
 <!-- trefwoorden: kunstmatige intelligentie, geneeskunde, systeemwetenschap, implementatie van AI-systemen, wettelijke vereisten, machine learning, statistiek, selectie van modelarchitectuur -->
@@ -97,7 +99,7 @@ About
 <!-- キーワード: 人工知能、医学、システム科学、AIシステム導入、法的要件、機械学習、統計学、モデルアーキテクチャ選定 -->
 
 
-I am an AI scientist with a background in computational statistics and psychology. I hold a doctoral researcher position at 
+I am an AI researcher with a background in computational statistics and psychology. I hold a doctoral researcher position at 
 <a href="https://www.uu.nl/staff/DAnadria" target="_blank" rel="noopener noreferrer" class="inline-link">Utrecht University</a> (dept. Methodology & Statistics) with affiliate appointments at University Medical Center Utrecht (Julius Center) and <a href="https://www.tudelft.nl/en/staff/d.anadria/" target="_blank" rel="noopener noreferrer" class="inline-link">Delft University of Technology</a>  (fac. Technology Policy and Management).
 
 
