@@ -28,7 +28,7 @@ Inspiration
 
 
 <div style="text-align: justify;">
-I am fortunate to be standing on the sholders of giants. Great thinkers, including Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science Lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems Lab), Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing Lab), Dr. Maarten van Smeden and Dr. Richard Bartels (University Medical Center Utrecht - AI Methods Group), as well as the brilliant members of the AlgoSoc consortium all profoundly shape my thought. Their insights are an immense asset for me when dealing with complex problems and I am greateful to have them.
+I am fortunate to be standing on the shoulders of giants. Great thinkers, including Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science Lab), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems Lab), Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing Lab), Dr. Maarten van Smeden and Dr. Richard Bartels (University Medical Center Utrecht - AI Methods Group), as well as the brilliant members of the AlgoSoc consortium all profoundly shape my thought. Their insights are an immense asset for me when dealing with complex problems and I am greateful to have them.
 
 
 </div>
