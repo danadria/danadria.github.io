@@ -67,11 +67,13 @@ body {
 
 // Slightly see-through white panels.
 // Change this one number to adjust: 1 = solid white, 0 = fully transparent.
-$panel-alpha: 0.9;
+$panel-alpha: 0.67;
 
 .sidebar,
 .page,
-.archive {
+.archive,
+.site-nav,
+.page__footer-copyright {
   background-color: rgba(255, 255, 255, $panel-alpha);
 }
 
@@ -81,8 +83,7 @@ $panel-alpha: 0.9;
   padding: 1em 1.5em;
 }
 
-// If .archive sits inside .page, don't stack two translucent layers
-// (the overlap would look more opaque than the rest).
+// If .archive sits inside .page, don't stack two translucent layers.
 .page .archive {
   background-color: transparent;
   padding: 0;
