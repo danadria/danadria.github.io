@@ -60,13 +60,30 @@ body {
   background-attachment: fixed;
 }
 
-// Archive pages: let the body background show through the main containers.
-.layout--archive #main,
-.layout--archive .archive {
+// Archive pages: let the body background show through the outer container.
+.layout--archive #main {
   background: transparent;
 }
 
-// Sidebar stays solid white everywhere.
-.sidebar {
-  background-color: #fff;
+// Slightly see-through white panels.
+// Change this one number to adjust: 1 = solid white, 0 = fully transparent.
+$panel-alpha: 0.9;
+
+.sidebar,
+.page,
+.archive {
+  background-color: rgba(255, 255, 255, $panel-alpha);
+}
+
+// Padding so text doesn't touch the edge of the white panels.
+.page,
+.archive {
+  padding: 1em 1.5em;
+}
+
+// If .archive sits inside .page, don't stack two translucent layers
+// (the overlap would look more opaque than the rest).
+.page .archive {
+  background-color: transparent;
+  padding: 0;
 }
