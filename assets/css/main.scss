@@ -72,9 +72,23 @@ $panel-alpha: 0.67;
 .sidebar,
 .page,
 .archive,
-.site-nav,
-.page__footer-copyright {
+.greedy-nav,
+.page__footer {
   background-color: rgba(255, 255, 255, $panel-alpha);
+}
+
+// Inner elements must not add a second layer on top.
+.site-nav,
+.masthead,
+.masthead__inner-wrap,
+.page__footer-copyright {
+  background-color: transparent;
+}
+
+// The theme sets "background: #fff" as a shorthand on .greedy-nav,
+// so override it explicitly.
+.greedy-nav {
+  background: rgba(255, 255, 255, $panel-alpha);
 }
 
 // Padding so text doesn't touch the edge of the white panels.
