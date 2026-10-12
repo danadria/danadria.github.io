@@ -32,8 +32,8 @@ Inspiration
 <div style="text-align: justify;">
 Daniel Anadria draws inspiration from great thinkers, including Prof. Dr. Daniel Oberski (Utrecht University - Human Data Science Lab), Dr. Maarten van Smeden and Dr. Richard Bartels (University Medical Center Utrecht - AI Methods Group), Dr.ir. Roel Dobbe (TU Delft - Sociotechnical AI Systems Lab), Dr. Anastasia Giachanou (Utrecht University - Natural Language and Text Processing Lab), as well as from the members of the AlgoSoc consortium.
 
-
-</div>
+<!--
+</div>-->
 
 <!-- <br>
 ![affiliations](/images/affiliations.png)
