@@ -66,13 +66,13 @@ facebook:
 og_image                 :  /images/og_image.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : Person
-  name                   : Daniel Anadria
-  links: 
-      - label: "Substack"
-        icon: "fas fa-rss"
-        url: "https://danadria.substack.com"
+# social:
+#   type                   : Person
+#   name                   : Daniel Anadria
+#   links:
+#       - label: "Substack"
+#         icon: "fas fa-rss"
+#         url: "https://danadria.substack.com"
   
 
 
