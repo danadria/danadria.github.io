@@ -1,75 +1,113 @@
-{% include base_path %}
-
-<!-- start custom head snippets -->
+{% if page.url == "/" or page.url == "/about/" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Daniel Anadria",
-  "alternateName": "danadria",
-  "url": "https://danadria.com/",
-  "image": "https://danadria.com/images/profile.jpg",
-  "jobTitle": "AI Researcher",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Utrecht University"
-  },
-"affiliation": [
-  {
-    "@type": "Organization",
-    "name": "Delft University of Technology"
-  },
-  {
-    "@type": "Organization",
-    "name": "University Medical Center Utrecht"
-  }
-],
-  "sameAs": [
-    "https://scholar.google.com/citations?user=E5wiCxMAAAAJ",
-    "https://orcid.org/0009-0008-2247-4887",
-    "https://danadria.substack.com/",
-    "https://github.com/danadria",
-    "https://bsky.app/profile/danadria.bsky.social",
-    "https://www.uu.nl/staff/DAnadria/Contact",
-    "https://research.tudelft.nl/en/persons/d-anadria",
-    "https://www.researchgate.net/profile/Daniel-Anadria",
-    "https://algosoc.org/research/methods-for-the-development-implementation-and-assessment-of-clinical-decision-support-systems",
-    "https://hds.sites.uu.nl/researchers/",
-    "https://researchinformation.umcutrecht.nl/en/publications/algorithmic-fairness-in-clinical-natural-language-processing-chal",
-    "https://algosoc.org/team",
-    "https://sites.google.com/view/ewaf23/committees",
-    "https://www.aies-conference.com/2025/program-committee-2/"
-  ]
-}
-</script>
-
-<link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
-<link rel="shortcut icon" href="/images/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
-<link rel="manifest" href="/images/site.webmanifest" />
-<link 
-  href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" 
-  rel="stylesheet">
-
-<link rel="icon" type="image/png" href="{{ base_path }}/images/android-chrome-192x192.png?v=updated20251001" sizes="192x192">
-<link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=updated20251001" color="#000000">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=updated20251001">
-<meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=updated20251001">
-<meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
-
-
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
-<!-- end custom head snippets -->
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://danadria.com/#person",
+      "name": "Daniel Anadria",
+      "alternateName": ["Daniël Anadria", "D. Anadria", "danadria"],
+      "url": "https://danadria.com/",
+      "image": "https://danadria.com/images/profile.jpg",
+      "description": "Researcher at Utrecht University working on AI alignment, AI governance and algorithmic fairness in clinical decision support.",
+      "jobTitle": "Researcher",
+      "worksFor": {
+        "@type": "CollegeOrUniversity",
+        "@id": "https://www.uu.nl/#organization",
+        "name": "Utrecht University",
+        "url": "https://www.uu.nl",
+        "department": {
+          "@type": "Organization",
+          "name": "Applied Data Science and Artificial Intelligence",
+          "url": "https://www.uu.nl/en/organisation/methodology-statistics-and-data-science/research/applied-data-scienceartificial-intelligence"
+        }
+      },
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "Health Data Science group, Utrecht University",
+          "url": "https://hds.sites.uu.nl/"
+        },
+        {
+          "@type": "Organization",
+          "name": "Natural Language Processing group, Utrecht University",
+          "url": "https://nlp.sites.uu.nl/"
+        }
+      ],
+      "affiliation": [
+        { "@id": "https://www.uu.nl/#organization" },
+        {
+          "@type": "Hospital",
+          "@id": "https://www.umcutrecht.nl/#organization",
+          "name": "University Medical Center Utrecht",
+          "url": "https://www.umcutrecht.nl",
+          "department": {
+            "@type": "Organization",
+            "name": "Julius Center for Health Sciences and Primary Care"
+          }
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "@id": "https://www.tudelft.nl/#organization",
+          "name": "Delft University of Technology",
+          "url": "https://www.tudelft.nl",
+          "department": {
+            "@type": "Organization",
+            "name": "Faculty of Technology, Policy and Management",
+            "url": "https://www.tudelft.nl/en/tpm/",
+            "department": {
+              "@type": "Organization",
+              "name": "Engineering Systems and Services",
+              "url": "https://www.tudelft.nl/en/tpm/our-faculty/departments/engineering-systems-and-services"
+            }
+          }
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "@id": "https://www.rug.nl/#organization",
+          "name": "University of Groningen",
+          "url": "https://www.rug.nl"
+        },
+        { "@id": "https://www.uu.nl/#organization" }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "degree",
+          "name": "BSc",
+          "recognizedBy": { "@id": "https://www.rug.nl/#organization" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "degree",
+          "name": "MSc",
+          "recognizedBy": { "@id": "https://www.uu.nl/#organization" }
+        }
+      ],
+      "knowsAbout": [
+        "AI alignment",
+        "AI governance",
+        "Data science",
+        "Natural language processing",
+        "Algorithmic fairness",
+        "Clinical decision support systems"
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0008-2247-4887"
+      },
+      "mainEntityOfPage": "https://danadria.com/about/",
+      "sameAs": [
+        "https://orcid.org/0009-0008-2247-4887",
+        "https://scholar.google.com/citations?user=E5wiCxMAAAAJ",
+        "https://www.uu.nl/staff/DAnadria",
+        "https://research.tudelft.nl/en/persons/d-anadria",
+        "https://github.com/danadria",
+        "https://bsky.app/profile/danadria.bsky.social",
+        "https://danadria.substack.com/",
+        "https://www.researchgate.net/profile/Daniel-Anadria"
+      ]
