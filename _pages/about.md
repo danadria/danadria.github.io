@@ -17,7 +17,7 @@ About
 
 <div style="text-align: justify;">
 
-Daniel Anadria is a researcher working on sociotechnical alignment in high-risk AI systems. He holds appointments at <a href="https://www.uu.nl/staff/DAnadria" target="_blank" rel="noopener noreferrer" class="inline-link">Utrecht University</a> (dept. Methodology, Statistics & Data Science), the University Medical Center Utrecht (Julius Center) and <a href="https://www.tudelft.nl/en/staff/d.anadria/" target="_blank" rel="noopener noreferrer" class="inline-link">Delft University of Technology</a> (fac. Technology Policy and Management).
+Daniel Anadria is a researcher working on sociotechnical alignment in high-risk artificial intelligence systems. He holds appointments at <a href="https://www.uu.nl/staff/DAnadria" target="_blank" rel="noopener noreferrer" class="inline-link">Utrecht University</a> (dept. Methodology, Statistics & Data Science), the University Medical Center Utrecht (Julius Center) and <a href="https://www.tudelft.nl/en/staff/d.anadria/" target="_blank" rel="noopener noreferrer" class="inline-link">Delft University of Technology</a> (fac. Technology Policy and Management).
 
 Anadria's work features a combination of data science and systems analysis methods aimed to enable competitive, compliant, and safe AI system implementation while safeguarding the values of human dignity, freedom, democracy, equality, the rule of law, and human rights in high-risk applications. His current work focuses on high-risk systems in medicine, especially those used for clinical decision-support.
 
